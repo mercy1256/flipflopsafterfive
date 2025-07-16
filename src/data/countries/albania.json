@@ -1,0 +1,33 @@
+{
+  "name": "Albania",
+  "region": "Europe",
+  "capital": "Tirana",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Visa-free for many countries, check specific requirements",
+  "currency": "Albanian Lek",
+  "languages": ["Albanian", "English increasingly common in tourist areas"],
+  "about": {
+    "description": "Albania is a hidden gem in the Balkans, known for its stunning Adriatic and Ionian coastlines, ancient ruins, and Ottoman architecture. It offers a unique blend of Mediterranean and Balkan cultures with affordable prices and fewer crowds than neighboring countries.",
+    "highlights": [
+      "Beautiful beaches along the Albanian Riviera",
+      "Ancient ruins and archaeological sites",
+      "Historic Ottoman towns",
+      "Stunning mountain landscapes",
+      "Rich cultural heritage"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "April to June and September to October for pleasant weather; July and August for beach holidays",
+    "transportation": [
+      "Buses are the main form of public transport",
+      "Taxis are affordable",
+      "Rental cars available for exploring"
+    ],
+    "culturalNotes": [
+      "Albanians are known for their hospitality",
+      "Coffee culture is very important",
+      "Tipping is not expected but appreciated"
+    ]
+  },
+  "articles": []
+} 

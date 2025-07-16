@@ -1,0 +1,33 @@
+{
+  "name": "Croatia",
+  "region": "Europe",
+  "capital": "Zagreb",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["Croatian", "English widely spoken in tourist areas"],
+  "about": {
+    "description": "Croatia is a stunning country along the Adriatic Sea, known for its beautiful coastline, historic cities, and national parks. From the medieval walls of Dubrovnik to the cascading waterfalls of Plitvice Lakes, Croatia offers a perfect mix of history, nature, and Mediterranean charm.",
+    "highlights": [
+      "Historic walled cities",
+      "Crystal clear Adriatic beaches",
+      "Plitvice Lakes National Park",
+      "Island hopping opportunities",
+      "Rich cultural heritage"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "May to June and September to October for pleasant weather; July and August for beach holidays",
+    "transportation": [
+      "Ferries for island hopping",
+      "Good bus network",
+      "Rental cars available"
+    ],
+    "culturalNotes": [
+      "Croatians are generally friendly and hospitable",
+      "Coffee culture is important",
+      "Tipping is appreciated but not mandatory"
+    ]
+  },
+  "articles": []
+} 

@@ -1,0 +1,30 @@
+{
+    "name": "Iceland",
+    "region": "Europe",
+    "capital": "Reykjavik",
+    "timeZone": "CET (UTC+1)",
+    "visaRequirements": "Schengen Visa required for most non-EU citizens",
+    "currency": "Icelandic króna",
+    "languages": ["Icelandic (Majority speak English)"],
+    "about": {
+      "description": "Iceland is a island nation in the north Atlantic Ocean. It is known for its unique natural landscape, including volcanoes, glaciers, and hot springs.",
+      "highlights": [
+        "Amazing landscapes",
+        "Innumerable waterfalls",
+        "Hiker's paradise",
+        "Northern Lights"
+      ]
+    },
+    "travelTips": {
+      "bestTimeToVisit": "June-September for hiking September - April for Northern Lights",
+      "transportation": [
+        "You will need a car to explore the country",
+        "There are some local transport to famous attractions but they are limited and expensive"
+      ],
+      "culturalNotes": [
+        "Dress warmly as you will see extreme weather in a day even during summer months",
+        "Respect the nature and the wildlife",
+        "Drive safely as there are a lot of sheeps near the roads roaming freely"
+      ]
+    }
+  } 

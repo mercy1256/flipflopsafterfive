@@ -1,0 +1,33 @@
+{
+  "name": "Norway",
+  "region": "Europe",
+  "capital": "Oslo",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Norwegian Krone",
+  "languages": ["Norwegian", "English widely spoken"],
+  "about": {
+    "description": "Norway is a Scandinavian country known for its dramatic fjords, stunning natural landscapes, and the mesmerizing Northern Lights. It's famous for its high standard of living, outdoor activities, and Viking history.",
+    "highlights": [
+      "Majestic fjords and waterfalls",
+      "Northern Lights in winter",
+      "Midnight sun in summer",
+      "Viking history and culture",
+      "Outdoor activities year-round"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "June to August for hiking and fjords; December to March for Northern Lights and winter sports",
+    "transportation": [
+      "Excellent public transport in cities",
+      "Scenic train journeys available",
+      "Ferries for coastal travel"
+    ],
+    "culturalNotes": [
+      "Norwegians are generally reserved but friendly",
+      "Outdoor activities are a major part of life",
+      "Tipping is not expected but appreciated"
+    ]
+  },
+  "articles": []
+} 

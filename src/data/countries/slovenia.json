@@ -1,0 +1,33 @@
+{
+  "name": "Slovenia",
+  "region": "Europe",
+  "capital": "Ljubljana",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["Slovene", "English widely spoken in tourist areas"],
+  "about": {
+    "description": "Slovenia is a small but incredibly diverse country in Central Europe, known for its beautiful lakes, mountains, and charming towns. From the fairytale Lake Bled to the caves of Postojna, Slovenia is a paradise for nature lovers and adventurers.",
+    "highlights": [
+      "Lake Bled and its island church",
+      "Spectacular caves like Postojna and Škocjan",
+      "Julian Alps and Triglav National Park",
+      "Charming capital Ljubljana",
+      "Wine regions and local cuisine"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "May to September for outdoor activities; December to March for winter sports",
+    "transportation": [
+      "Efficient bus and train network",
+      "Car rental for exploring rural areas",
+      "Cycling is popular in many regions"
+    ],
+    "culturalNotes": [
+      "Slovenians are friendly and value sustainability",
+      "Tap water is safe to drink everywhere",
+      "Tipping is appreciated but not mandatory"
+    ]
+  },
+  "articles": []
+} 

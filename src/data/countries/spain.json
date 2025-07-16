@@ -1,0 +1,87 @@
+{
+  "name": "Spain",
+  "region": "europe",
+  "capital": "Madrid",
+  "population": "47.4 million",
+  "area": "505,990 km²",
+  "timeZone": "CET (UTC+1)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro (€)",
+  "languages": ["Spanish", "Catalan", "Basque", "Galician"],
+  "about": {
+    "description": "Spain is a country in southwestern Europe known for its diverse culture, stunning architecture, and vibrant lifestyle. From the beaches of Costa del Sol to the historic streets of Barcelona and the flamenco culture of Andalusia, Spain offers a rich tapestry of experiences.",
+    "highlights": [
+      "Home to the world's third-largest number of UNESCO World Heritage Sites",
+      "Famous for its siesta culture and late-night dining",
+      "Birthplace of flamenco and paella"
+    ]
+  },
+  "attractions": [
+    {
+      "name": "Sagrada Familia",
+      "location": "Barcelona",
+      "description": "Antoni Gaudí's unfinished masterpiece, a unique basilica combining Gothic and Art Nouveau styles.",
+      "image": "/images/spain/sagrada-familia.jpg"
+    },
+    {
+      "name": "Alhambra",
+      "location": "Granada",
+      "description": "A stunning palace and fortress complex from the Moorish period.",
+      "image": "/images/spain/alhambra.jpg"
+    },
+    {
+      "name": "Park Güell",
+      "location": "Barcelona",
+      "description": "A public park system composed of gardens and architectonic elements designed by Gaudí.",
+      "image": "/images/spain/park-guell.jpg"
+    }
+  ],
+  "cuisine": [
+    {
+      "name": "Paella",
+      "description": "A traditional Valencian rice dish with seafood, meat, and vegetables.",
+      "image": "/images/spain/paella.jpg"
+    },
+    {
+      "name": "Tapas",
+      "description": "A variety of small savory dishes, typically served with drinks at bars.",
+      "image": "/images/spain/tapas.jpg"
+    },
+    {
+      "name": "Churros",
+      "description": "Fried-dough pastries, often served with hot chocolate for dipping.",
+      "image": "/images/spain/churros.jpg"
+    }
+  ],
+  "travelTips": {
+    "bestTimeToVisit": "March-May and September-October",
+    "transportation": [
+      "Extensive high-speed train network (AVE)",
+      "Well-developed metro systems in major cities",
+      "Efficient bus network"
+    ],
+    "culturalNotes": [
+      "Dinner is typically served late (after 9 PM)",
+      "Many shops close for siesta in the afternoon",
+      "Tipping is not mandatory but appreciated"
+    ]
+  },
+  "articles": [
+    {
+      "title": "Barcelona Architecture Tour",
+      "slug": "barcelona-architecture",
+      "description": "Explore the stunning works of Antoni Gaudí and other architectural marvels.",
+      "image": "/images/spain/barcelona-architecture.jpg",
+      "date": "2024-03-19",
+      "readTime": "11 min read"
+    },
+    {
+      "title": "Madrid Food Guide",
+      "slug": "madrid-food-guide",
+      "description": "A culinary journey through Madrid's best tapas bars and restaurants.",
+      "image": "/images/spain/madrid-food.jpg",
+      "date": "2024-03-14",
+      "readTime": "7 min read"
+    }
+  ]
+} 

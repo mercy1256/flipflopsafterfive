@@ -1,0 +1,79 @@
+{
+  "name": "France",
+  "region": "europe",
+  "capital": "Paris",
+  "population": "67.8 million",
+  "area": "551,695 km²",
+  "timeZone": "CET (UTC+1)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro (€)",
+  "languages": ["French"],
+  "about": {
+    "description": "France is renowned for its rich history, world-class art, iconic landmarks, and exquisite cuisine. From the romantic streets of Paris to the sun-soaked beaches of the French Riviera, France offers something for every traveler.",
+    "highlights": [
+      "Home to the Eiffel Tower and Louvre Museum",
+      "Famous for wine, cheese, and pastries",
+      "Diverse landscapes: Alps, lavender fields, and Mediterranean coast"
+    ]
+  },
+  "attractions": [
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris",
+      "description": "The iconic symbol of France, offering panoramic views of Paris.",
+      "image": "/images/france/eiffel-tower.jpg"
+    },
+    {
+      "name": "Lavender Fields",
+      "location": "Provence",
+      "description": "Endless purple fields in bloom during summer, a photographer's dream.",
+      "image": "/images/france/lavender-fields.jpg"
+    },
+    {
+      "name": "Calanques National Park",
+      "location": "Marseille",
+      "description": "Stunning limestone cliffs and turquoise coves along the Mediterranean coast.",
+      "image": "/images/france/calanques.jpg"
+    }
+  ],
+  "cuisine": [
+    {
+      "name": "Croissant",
+      "description": "Flaky, buttery pastry enjoyed for breakfast across France.",
+      "image": "/images/france/croissant.jpg"
+    },
+    {
+      "name": "Ratatouille",
+      "description": "A traditional Provençal stewed vegetable dish.",
+      "image": "/images/france/ratatouille.jpg"
+    },
+    {
+      "name": "Bouillabaisse",
+      "description": "A flavorful fish stew from Marseille.",
+      "image": "/images/france/bouillabaisse.jpg"
+    }
+  ],
+  "travelTips": {
+    "bestTimeToVisit": "April-June and September-October",
+    "transportation": [
+      "High-speed trains (TGV)",
+      "Regional buses and trams",
+      "Domestic flights between major cities"
+    ],
+    "culturalNotes": [
+      "Greet with 'Bonjour' and a handshake or cheek kiss",
+      "Shops may close for lunch, especially in smaller towns",
+      "Tipping is customary but not obligatory"
+    ]
+  },
+  "articles": [
+    {
+      "title": "4 Day Itinerary Across Southern France",
+      "slug": "4-day-southern-france-itinerary",
+      "description": "A sample itinerary for exploring the highlights of southern France in 4 days.",
+      "image": "/images/france/lavender-fields.jpg",
+      "date": "2024-06-01",
+      "readTime": "7 min read"
+    }
+  ]
+} 

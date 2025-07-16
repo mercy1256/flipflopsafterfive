@@ -1,0 +1,33 @@
+{
+  "name": "Austria",
+  "region": "Europe",
+  "capital": "Vienna",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["German", "English widely spoken in tourist areas"],
+  "about": {
+    "description": "Austria is a landlocked country in Central Europe known for its stunning Alpine landscapes, classical music heritage, and imperial history. From the elegant streets of Vienna to the snow-capped peaks of the Alps, Austria offers a perfect blend of culture, history, and natural beauty.",
+    "highlights": [
+      "Stunning Alpine landscapes",
+      "Historic imperial palaces",
+      "World-class classical music",
+      "Ski resorts and hiking trails",
+      "Rich cultural heritage"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "April to October for city visits; December to March for winter sports",
+    "transportation": [
+      "Excellent public transport system",
+      "Efficient train network",
+      "Well-maintained roads"
+    ],
+    "culturalNotes": [
+      "Austrians value punctuality",
+      "Coffee house culture is important",
+      "Tipping is expected (round up or 5-10%)"
+    ]
+  },
+  "articles": []
+} 

@@ -1,0 +1,33 @@
+{
+  "name": "Thailand",
+  "region": "Asia",
+  "capital": "Bangkok",
+  "timeZone": "ICT (UTC+7)",
+  "visaRequirements": "Visa-free or visa-on-arrival for many countries, check specific requirements",
+  "currency": "Thai Baht",
+  "languages": ["Thai", "English widely spoken in tourist areas"],
+  "about": {
+    "description": "Thailand is a Southeast Asian country known for its tropical beaches, opulent royal palaces, ancient ruins, and ornate temples. From the bustling city of Bangkok to the islands of Phuket and Koh Samui, Thailand offers a vibrant mix of culture, cuisine, and adventure.",
+    "highlights": [
+      "Stunning beaches and islands",
+      "Rich Buddhist culture and temples",
+      "World-famous street food",
+      "Lively markets and nightlife",
+      "Lush jungles and national parks"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "November to February for cool, dry weather; March to May is hot; June to October is rainy season",
+    "transportation": [
+      "Affordable domestic flights",
+      "Extensive bus and train network",
+      "Tuk-tuks and taxis in cities"
+    ],
+    "culturalNotes": [
+      "Respect for the monarchy and Buddhism is important",
+      "Dress modestly when visiting temples",
+      "Tipping is not mandatory but appreciated"
+    ]
+  },
+  "articles": []
+} 

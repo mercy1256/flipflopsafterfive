@@ -1,0 +1,33 @@
+{
+  "name": "Finland",
+  "region": "Europe",
+  "capital": "Helsinki",
+  "timeZone": "EET (UTC+2), EEST (UTC+3 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["Finnish", "Swedish"],
+  "about": {
+    "description": "Finland is a Nordic country known for its stunning natural landscapes, including thousands of lakes, vast forests, and the magical Northern Lights. It's famous for its high quality of life, innovative design, and unique cultural experiences like saunas and Santa Claus Village.",
+    "highlights": [
+      "Northern Lights viewing in Lapland",
+      "Midnight sun during summer months",
+      "Thousands of lakes and pristine nature",
+      "Modern cities with unique architecture",
+      "Traditional sauna culture"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "June to August for summer activities and midnight sun; December to March for winter sports and Northern Lights",
+    "transportation": [
+      "Efficient public transport in cities",
+      "Extensive train network for intercity travel",
+      "Domestic flights available to northern regions"
+    ],
+    "culturalNotes": [
+      "Sauna is an important part of Finnish culture",
+      "Finns value personal space and quiet",
+      "Tipping is not expected but appreciated for exceptional service"
+    ]
+  },
+  "articles": []
+} 

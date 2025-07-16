@@ -1,0 +1,32 @@
+{
+    "name": "Portugal",
+    "region": "Europe",
+    "capital": "Lisbon",
+    "timeZone": "WET (UTC+0), WEST (UTC+1 in summer)",
+    "visaRequirements": "Schengen Visa required for most non-EU citizens",
+    "currency": "Euro",
+    "languages": ["Portuguese (Most people speak some English, especially in tourist areas)"],
+    "about": {
+      "description": "Portugal is a southern European country on the Iberian Peninsula, known for its rich history, stunning coastline, charming cities, and world-class cuisine. From the colorful streets of Lisbon to the dramatic cliffs of the Algarve, Portugal offers something for every traveler.",
+      "highlights": [
+        "Historic cities like Lisbon, Porto, and Sintra",
+        "Breathtaking coastal landscapes in Algarve",
+        "Delicious cuisine including seafood and pastries",
+        "Charming villages, castles, and palaces"
+      ]
+    },
+    "travelTips": {
+      "bestTimeToVisit": "April to June and September to October for pleasant weather and fewer crowds; July and August for beach holidays",
+      "transportation": [
+        "Public transport is reliable and well-connected in major cities",
+        "Trains and buses are convenient for intercity travel",
+        "Renting a car is ideal for exploring remote areas and the Algarve"
+      ],
+      "culturalNotes": [
+        "Dinner is typically late—restaurants often open after 7 PM",
+        "Tipping is appreciated but not obligatory (around 5-10%)",
+        "Try local specialties like Pastéis de Nata, Bacalhau, and Port wine"
+      ]
+    },
+    "articles": []
+  }

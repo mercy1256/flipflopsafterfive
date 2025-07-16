@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/places/page": "app/places/page.js",
+  "/places/[region]/[country]/page": "app/places/[region]/[country]/page.js"
+}

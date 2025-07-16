@@ -1,0 +1,33 @@
+{
+  "name": "Greece",
+  "region": "Europe",
+  "capital": "Athens",
+  "timeZone": "EET (UTC+2), EEST (UTC+3 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["Greek", "English widely spoken in tourist areas"],
+  "about": {
+    "description": "Greece is a country in southeastern Europe known for its ancient history, stunning islands, and Mediterranean culture. From the Acropolis in Athens to the white-washed buildings of Santorini, Greece offers a perfect blend of history, culture, and natural beauty.",
+    "highlights": [
+      "Ancient historical sites and ruins",
+      "Beautiful Mediterranean islands",
+      "Crystal clear beaches",
+      "Rich cultural heritage",
+      "Delicious Mediterranean cuisine"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "April to June and September to October for pleasant weather; July and August for beach holidays",
+    "transportation": [
+      "Ferries for island hopping",
+      "Domestic flights available",
+      "Public transport in major cities"
+    ],
+    "culturalNotes": [
+      "Dinner is typically served late (after 9 PM)",
+      "Siesta time is observed in many places",
+      "Tipping is appreciated but not mandatory"
+    ]
+  },
+  "articles": []
+} 
