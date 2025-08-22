@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://flipflopsafterfive.com/sitemap.xml
+
+# Disallow admin or private areas if they exist
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow all content
+Allow: /blog/
+Allow: /places/
+Allow: /experiences/
+Allow: /about/
+Allow: /contact/
