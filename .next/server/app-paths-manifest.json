@@ -1,19 +1,4 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/api/contact/submissions/route": "app/api/contact/submissions/route.js",
-  "/admin/contact-submissions/page": "app/admin/contact-submissions/page.js",
-  "/api/contact/route": "app/api/contact/route.js",
-  "/articles/[country]/[slug]/page": "app/articles/[country]/[slug]/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/blog/[slug]/page": "app/blog/[slug]/page.js",
-  "/blog/page": "app/blog/page.js",
-  "/experiences/page": "app/experiences/page.js",
-  "/page": "app/page.js",
-  "/places/[region]/[country]/page": "app/places/[region]/[country]/page.js",
-  "/places/page": "app/places/page.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/blog/[...slug]/page": "app/blog/[...slug]/page.js",
-  "/experiences/road-trips/[slug]/page": "app/experiences/road-trips/[slug]/page.js",
-  "/experiences/hiking/[slug]/page": "app/experiences/hiking/[slug]/page.js",
-  "/experiences/cities/[slug]/page": "app/experiences/cities/[slug]/page.js"
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js"
 }

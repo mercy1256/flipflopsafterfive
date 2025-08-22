@@ -3,6 +3,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Link from 'next/link'
+import MobileNav from './components/MobileNav'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -133,12 +134,19 @@ export default function RootLayout({
                 <div className="flex items-center">
                   <Link href="/" className="text-2xl font-bold text-text">FLIPFLOPSAFTERFIVE</Link>
                 </div>
+                
+                {/* Desktop Navigation */}
                 <div className="hidden md:block">
                   <div className="flex items-center space-x-8">
                     <Link href="/places" className="text-text hover:text-text-light transition-colors">PLACES</Link>
                     <Link href="/experiences" className="text-text hover:text-text-light transition-colors">EXPERIENCES</Link>
                     <Link href="/blog" className="text-text hover:text-text-light transition-colors">BLOG</Link>
                   </div>
+                </div>
+                
+                {/* Mobile Navigation */}
+                <div className="md:hidden">
+                  <MobileNav />
                 </div>
               </div>
             </nav>
