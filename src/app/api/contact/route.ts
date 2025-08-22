@@ -4,7 +4,7 @@ import clientPromise from '@/lib/mongodb'
 import { ContactSubmission } from '@/types/contact'
 
 // Email configuration
-const transporter = nodemailer.createTransporter({
+const transporter = nodemailer.createTransport({
   service: 'gmail', // or 'outlook', 'yahoo', etc.
   auth: {
     user: process.env.EMAIL_USER, // your-email@gmail.com
