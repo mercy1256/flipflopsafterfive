@@ -2,7 +2,7 @@
 title: "7 days Amalfi Coast Itinerary"
 description: "A detailed 7-day itinerary for exploring the stunning Amalfi Coast in Italy."
 date: "2023-10-26"
-image: "/images/italy/articles/7-days-amalfi-coast-itinerary.jpg"
+image: "/images/italy/articles/7-days-amalfi-coast-itinerary-min.jpg"
 author: "Urvish Shah"
 tags: ["Amalfi Coast", "Italy", "Itinerary", "Travel Guide"]
 ---
