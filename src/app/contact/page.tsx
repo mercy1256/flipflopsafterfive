@@ -31,7 +31,7 @@ export default function ContactPage() {
         <div>
           <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
           
-          <form name="contact" method="POST" data-netlify="true" className="space-y-6" netlify>
+          <form name="contact" method="POST" data-netlify="true" className="space-y-6">
             <input type="hidden" name="form-name" value="contact" />
             <div>
               <label htmlFor="name" className="block text-sm font-medium mb-2">
