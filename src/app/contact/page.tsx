@@ -11,6 +11,9 @@ export default function ContactPage() {
     subject: '',
     message: ''
   })
+  const [isSubmitting, setIsSubmitting] = useState(false)
+  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle')
+  const [errorMessage, setErrorMessage] = useState('')
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target
@@ -18,6 +21,33 @@ export default function ContactPage() {
       ...prev,
       [name]: value
     }))
+  }
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setIsSubmitting(true)
+    setSubmitStatus('idle')
+    setErrorMessage('')
+
+    try {
+      const form = e.target as HTMLFormElement
+      const formData = new FormData(form)
+      
+      await fetch("/static-form-for-netlify.html", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData as any).toString(),
+      })
+      
+      setSubmitStatus('success')
+      setFormData({ name: '', email: '', subject: '', message: '' })
+    } catch (error) {
+      console.error('Error submitting form to Netlify:', error)
+      setSubmitStatus('error')
+      setErrorMessage('Failed to send message. Please try again.')
+    } finally {
+      setIsSubmitting(false)
+    }
   }
 
   return (
@@ -33,7 +63,23 @@ export default function ContactPage() {
         <div>
           <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
           
-          <form name="contact" method="POST" data-netlify="true" className="space-y-6">
+          {submitStatus === 'success' && (
+            <div className="mb-6 p-4 bg-green-100 border border-green-400 text-green-700 rounded-md">
+              <h3 className="font-semibold mb-2">Message Sent Successfully!</h3>
+              <p>Thank you for your message. I've received it and will get back to you as soon as possible.</p>
+              <p className="mt-2 text-sm">You should also receive a confirmation email shortly.</p>
+            </div>
+          )}
+          
+          {submitStatus === 'error' && (
+            <div className="mb-6 p-4 bg-red-100 border border-red-400 text-red-700 rounded-md">
+              <h3 className="font-semibold mb-2">Error Sending Message</h3>
+              <p>{errorMessage}</p>
+              <p className="mt-2 text-sm">Please try again or email me directly at contact@flipflopsafterfive.com</p>
+            </div>
+          )}
+
+          <form name="contact" onSubmit={handleSubmit} className="space-y-6">
             <input type="hidden" name="form-name" value="contact" />
             <div>
               <label htmlFor="name" className="block text-sm font-medium mb-2">
@@ -47,6 +93,7 @@ export default function ContactPage() {
                 onChange={handleInputChange}
                 className="w-full px-4 py-2 border border-secondary rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-black placeholder-gray-500"
                 required
+                disabled={isSubmitting}
               />
             </div>
             <div>
@@ -61,6 +108,7 @@ export default function ContactPage() {
                 onChange={handleInputChange}
                 className="w-full px-4 py-2 border border-secondary rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-black placeholder-gray-500"
                 required
+                disabled={isSubmitting}
               />
             </div>
             <div>
@@ -75,6 +123,7 @@ export default function ContactPage() {
                 onChange={handleInputChange}
                 className="w-full px-4 py-2 border border-secondary rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-black placeholder-gray-500"
                 required
+                disabled={isSubmitting}
               />
             </div>
             <div>
@@ -89,13 +138,25 @@ export default function ContactPage() {
                 onChange={handleInputChange}
                 className="w-full px-4 py-2 border border-secondary rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-black placeholder-gray-500"
                 required
+                disabled={isSubmitting}
               />
             </div>
             <button
               type="submit"
+              disabled={isSubmitting}
               className="w-full bg-secondary text-primary px-6 py-3 rounded-md hover:bg-accent transition-colors disabled:opacity-50 disabled:cursor-not-allowed font-medium"
             >
-              Send Message
+              {isSubmitting ? (
+                <span className="flex items-center justify-center">
+                  <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  Sending...
+                </span>
+              ) : (
+                'Send Message'
+              )}
             </button>
           </form>
         </div>
