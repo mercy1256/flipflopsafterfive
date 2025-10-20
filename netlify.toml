@@ -1,8 +1,0 @@
-[[plugins]]
-package = "@netlify/plugin-nextjs"
-
-[[redirects]]
-from = "/contact"
-to = "/.netlify/functions/next-handler"
-status = 200
-force = true
