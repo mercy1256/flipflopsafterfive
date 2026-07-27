@@ -1,0 +1,33 @@
+{
+  "name": "Switzerland",
+  "region": "Europe",
+  "capital": "Bern",
+  "timeZone": "CET (UTC+1)",
+  "visaRequirements": "Schengen visa rules apply for many travelers; check current requirements before booking",
+  "currency": "Swiss Franc (CHF)",
+  "languages": ["German", "French", "Italian", "Romansh"],
+  "bestExperience": "Best experience: hiking around Oeschinensee — the most beautiful lake I've ever seen (go on a sunny day if you can).",
+  "about": {
+    "description": "Switzerland offers dramatic alpine scenery, pristine lakes, and charming villages. It is a dream destination for short mountain escapes and outdoor adventures.",
+    "highlights": [
+      "A breathtaking Alpine landscape around Lauterbrunnen and Interlaken",
+      "Iconic peaks and glacier lakes in the Bernese Oberland",
+      "Efficient scenic trains and well-marked hiking trails",
+      "Swiss chocolate, cheese, and refined hospitality"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "June to September for hiking and lake activities; December to March for winter sports",
+    "transportation": [
+      "Swiss trains are punctual and scenic",
+      "Public transport covers most mountain villages",
+      "Car rentals are useful for flexibility in remote areas"
+    ],
+    "culturalNotes": [
+      "Swiss etiquette values punctuality and quiet public behavior",
+      "Tipping is modest but appreciated for great service",
+      "Try local specialties like fondue, raclette, and rösti"
+    ]
+  },
+  "articles": []
+}

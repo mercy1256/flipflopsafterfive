@@ -8,6 +8,7 @@
   "visaRequirements": "Schengen Visa required for most non-EU citizens",
   "currency": "Euro (€)",
   "languages": ["Italian"],
+  "bestExperience": "Best experience: I've never been a museum person, but the Uffizi Gallery changed that completely.",
   "about": {
     "description": "Italy is a country in Southern Europe known for its rich history, art, culture, and cuisine. From the ancient ruins of Rome to the Renaissance art of Florence and the romantic canals of Venice, Italy offers a diverse range of experiences.",
     "highlights": [
@@ -21,7 +22,7 @@
       "name": "Colosseum",
       "location": "Rome",
       "description": "The largest ancient amphitheater ever built, dating back to 70-80 AD.",
-      "image": "/images/italy/colosseum.jpg"
+      "image": "/images/italy/articles/colosseum.jpg"
     },
     {
       "name": "Venice Canals",

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <rect width="1200" height="628" fill="#0f172a"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="628" fill="url(#gradient)" opacity="0.25"/>
+  <text x="50%" y="45%" text-anchor="middle" fill="#f8fafc" font-size="72" font-family="Inter, sans-serif" font-weight="700">Mountain &amp; Lake Escapes</text>
+  <text x="50%" y="60%" text-anchor="middle" fill="#e5e7eb" font-size="32" font-family="Inter, sans-serif">Fresh air and scenic views</text>
+</svg>

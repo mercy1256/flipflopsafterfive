@@ -79,10 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
           const fileContent = fs.readFileSync(filePath, 'utf8')
           const { data } = matter(fileContent)
           
-          const splitPath = filePath.split('src/content/articles/')
-          if (splitPath.length < 2) return null
-          
-          const relPath = splitPath[1].replace(/\\/g, '/').replace(/\.md$/, '')
+          const relPath = path.relative(articlesDir, filePath).replace(/\\/g, '/').replace(/\.md$/, '')
           const url = `${baseUrl}/blog/${relPath}`
           
           return {

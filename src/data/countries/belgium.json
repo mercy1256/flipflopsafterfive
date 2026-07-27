@@ -1,0 +1,33 @@
+{
+  "name": "Belgium",
+  "region": "Europe",
+  "capital": "Brussels",
+  "timeZone": "CET (UTC+1)",
+  "visaRequirements": "Schengen visa rules apply for many travelers; check current requirements before booking",
+  "currency": "Euro",
+  "languages": ["Dutch", "French", "German"],
+  "bestExperience": "Best experience: hopping between hot chocolate shops — the ginger-and-chilli mix in particular still lives in my head rent-free.",
+  "about": {
+    "description": "Belgium blends medieval cities, world-class chocolate, and lively squares. Its compact size makes it perfect for a quick, immersive European escape.",
+    "highlights": [
+      "Cobblestone streets and medieval architecture in Bruges and Ghent",
+      "Historic Grand Place in Brussels",
+      "Art nouveau and diamond districts in Antwerp",
+      "World-famous Belgian chocolate and waffles"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "April to October when the weather is mild and outdoor cafés are open",
+    "transportation": [
+      "Efficient train network between major cities",
+      "Trams and metros in Brussels and Antwerp",
+      "Bike-friendly city centers"
+    ],
+    "culturalNotes": [
+      "Sample local specialties like moules-frites and Belgian waffles",
+      "Learn a few greetings in French or Dutch for a warm response",
+      "Take your time at cafés—Belgium has a strong café culture"
+    ]
+  },
+  "articles": []
+}

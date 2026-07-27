@@ -40,7 +40,7 @@ export default function MobileNav() {
       {/* Hamburger Button */}
       <button
         onClick={toggleMenu}
-        className="text-text p-2 hover:bg-secondary rounded-md transition-colors focus:outline-none focus:ring-2 focus:ring-secondary focus:ring-offset-2 focus:ring-offset-primary"
+        className="text-text p-2 hover:bg-secondary rounded-md transition-colors focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2"
         aria-label="Toggle mobile menu"
         aria-expanded={isOpen}
         aria-controls="mobile-menu"
@@ -71,13 +71,13 @@ export default function MobileNav() {
 
       {/* Mobile Menu Overlay */}
       {isOpen && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 z-40" onClick={closeMenu} />
+        <div className="fixed inset-0 bg-black bg-opacity-40 z-40" onClick={closeMenu} />
       )}
 
       {/* Mobile Menu */}
       <div
         id="mobile-menu"
-        className={`fixed top-16 right-0 w-full max-w-sm bg-primary border-l border-secondary shadow-xl z-50 transform transition-transform duration-300 ease-in-out ${
+        className={`fixed top-20 right-0 w-full max-w-sm bg-primary border-l border-gray-200 shadow-elevated z-50 transform transition-transform duration-300 ease-in-out ${
           isOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
@@ -99,7 +99,7 @@ export default function MobileNav() {
           <nav className="space-y-1">
             <Link
               href="/places"
-              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary hover:text-text-light transition-colors border-b border-secondary/20"
+              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary transition-colors border-b border-gray-100"
               onClick={closeMenu}
             >
               <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -111,7 +111,7 @@ export default function MobileNav() {
             
             <Link
               href="/experiences"
-              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary hover:text-text-light transition-colors border-b border-secondary/20"
+              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary transition-colors border-b border-gray-100"
               onClick={closeMenu}
             >
               <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -122,7 +122,7 @@ export default function MobileNav() {
             
             <Link
               href="/blog"
-              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary hover:text-text-light transition-colors border-b border-secondary/20"
+              className="flex items-center px-6 py-4 text-lg font-medium text-text hover:bg-secondary transition-colors border-b border-gray-100"
               onClick={closeMenu}
             >
               <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -133,10 +133,10 @@ export default function MobileNav() {
           </nav>
 
           {/* Additional Mobile-Only Links */}
-          <div className="px-6 py-4 border-t border-secondary/20">
+          <div className="px-6 py-4 border-t border-gray-100">
             <Link
               href="/about"
-              className="flex items-center py-3 text-text hover:text-text-light transition-colors"
+              className="flex items-center py-3 text-text hover:text-accent transition-colors"
               onClick={closeMenu}
             >
               <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -147,7 +147,7 @@ export default function MobileNav() {
             
             <Link
               href="/contact"
-              className="flex items-center py-3 text-text hover:text-text-light transition-colors"
+              className="flex items-center py-3 text-text hover:text-accent transition-colors"
               onClick={closeMenu}
             >
               <svg className="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">

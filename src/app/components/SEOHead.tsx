@@ -80,6 +80,24 @@ export default function SEOHead({
       {/* Preconnect to external domains for performance */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+
+      {/* JSON-LD: WebSite + SearchAction for SEO */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://flipflopsafterfive.com",
+            "name": "FlipFlopsAfterFive",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://flipflopsafterfive.com/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          })
+        }}
+      />
     </Head>
   )
 }

@@ -3,7 +3,7 @@ title: "9 days Portugal Itinerary"
 date: "2024-03-15"
 readTime: "8 min read"
 author: "Urvish Shah"
-image: "/images/italy/articles/9-day-portugal-itinerary.jpg"
+image: "/images/portugal/articles/9-day-portugal-itinerary.jpg"
 ---
 
 In this post I want to share my itinerary of 10 days in mainland Portugal. I travelled solo in this trip and went everywhere via public transport but this itinerary can suit anyone who wants to travel along the country with a car as well.

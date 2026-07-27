@@ -18,6 +18,10 @@ import sloveniaData from '@/data/countries/slovenia.json'
 import thailandData from '@/data/countries/thailand.json'
 import portugalData from '@/data/countries/portugal.json'
 import franceData from '@/data/countries/france.json'
+import vietnamData from '@/data/countries/vietnam.json'
+import belgiumData from '@/data/countries/belgium.json'
+import netherlandsData from '@/data/countries/netherlands.json'
+import switzerlandData from '@/data/countries/switzerland.json'
 // Add more country imports as needed
 
 const countryDataMap: Record<string, Country> = {
@@ -32,9 +36,24 @@ const countryDataMap: Record<string, Country> = {
   'austria': austriaData,
   'slovenia': sloveniaData,
   'thailand': thailandData,
+  'vietnam': vietnamData,
+  'belgium': belgiumData,
+  'netherlands': netherlandsData,
+  'switzerland': switzerlandData,
   'portugal': portugalData,
   'france': franceData,
   // Add more country mappings as needed
+}
+
+const getCountryHeroImage = (country: string) => {
+  const publicImagesDir = path.join(process.cwd(), 'public', 'images')
+  const candidates = [
+    { src: `/images/${country}/main.jpg`, path: path.join(publicImagesDir, country, 'main.jpg') },
+    { src: `/images/${country}/cover.jpg`, path: path.join(publicImagesDir, country, 'cover.jpg') },
+    { src: `/images/${country}.jpg`, path: path.join(publicImagesDir, `${country}.jpg`) },
+  ]
+  const found = candidates.find((candidate) => fs.existsSync(candidate.path))
+  return found ? found.src : '/images/placeholder.svg'
 }
 
 async function getArticles(country: string) {
@@ -79,11 +98,13 @@ export default async function DestinationPage({ params }: { params: { region: st
   const region = params.region.charAt(0).toUpperCase() + params.region.slice(1)
   const articles = await getArticles(params.country)
 
+  const heroImage = getCountryHeroImage(params.country)
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-12">
       <div className="relative h-96 rounded-lg overflow-hidden mb-12">
         <Image
-          src={`/images/${params.country}/main.jpg`}
+          src={heroImage}
           alt={country}
           fill
           className="object-cover"
@@ -119,7 +140,7 @@ export default async function DestinationPage({ params }: { params: { region: st
             <h2 className="text-2xl font-bold mb-6">Latest Articles</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {articles.map((article, index) => (
-                <Link href={`/articles/${params.country}/${article.slug}`} key={index} className="group">
+                <Link href={`/blog/${params.country}/${article.slug}`} key={index} className="group">
                   <div className="relative h-48 rounded-lg overflow-hidden mb-4">
                     <Image
                       src={article.image}

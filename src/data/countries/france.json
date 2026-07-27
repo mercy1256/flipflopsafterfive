@@ -8,6 +8,7 @@
   "visaRequirements": "Schengen Visa required for most non-EU citizens",
   "currency": "Euro (€)",
   "languages": ["French"],
+  "bestExperience": "Best experience: kayaking through the Gorges du Verdon — an absolutely epic way to see those cliffs.",
   "about": {
     "description": "France is renowned for its rich history, world-class art, iconic landmarks, and exquisite cuisine. From the romantic streets of Paris to the sun-soaked beaches of the French Riviera, France offers something for every traveler.",
     "highlights": [
@@ -71,7 +72,7 @@
       "title": "4 Day Itinerary Across Southern France",
       "slug": "4-day-southern-france-itinerary",
       "description": "A sample itinerary for exploring the highlights of southern France in 4 days.",
-      "image": "/images/france/lavender-fields.jpg",
+      "image": "/images/france/articles/lavender-fields.jpg",
       "date": "2024-06-01",
       "readTime": "7 min read"
     }

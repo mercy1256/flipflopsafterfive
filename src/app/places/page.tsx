@@ -209,6 +209,54 @@ export default function PlacesPage() {
                 </div>
               </div>
             </Link>
+            <Link href="/places/europe/belgium" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/belgium.jpg"
+                  alt="Belgium"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Belgium</h3>
+                    <p className="text-white/80">Medieval cities, chocolate, and historic squares</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/netherlands" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/netherlands.jpg"
+                  alt="Netherlands"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Netherlands</h3>
+                    <p className="text-white/80">Canals, tulips, and classic Dutch scenery</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/switzerland" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/switzerland.jpg"
+                  alt="Switzerland"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Switzerland</h3>
+                    <p className="text-white/80">Alpine lakes, mountain hikes, and charming villages</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
           </div>
         </div>
 
@@ -228,6 +276,22 @@ export default function PlacesPage() {
                   <div className="absolute bottom-0 p-4">
                     <h3 className="text-xl font-bold text-white">Thailand</h3>
                     <p className="text-white/80">Tropical paradise and rich culture</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/asia/vietnam" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/vietnam.jpg"
+                  alt="Vietnam"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Vietnam</h3>
+                    <p className="text-white/80">Vibrant cities, dramatic coastlines, and mountain roads</p>
                   </div>
                 </div>
               </div>

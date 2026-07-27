@@ -1,0 +1,34 @@
+{
+  "name": "Vietnam",
+  "region": "Asia",
+  "capital": "Hanoi",
+  "timeZone": "ICT (UTC+7)",
+  "visaRequirements": "Visa-free or visa-on-arrival for many nationalities; always check current entry rules before travel",
+  "currency": "Vietnamese Dong (VND)",
+  "languages": ["Vietnamese", "English widely spoken in tourist hubs"],
+  "bestExperience": "Best experience: riding the Ha Giang Loop — the best experience of the entire trip.",
+  "about": {
+    "description": "Vietnam stretches from lush Mekong Delta rice paddies to the dramatic peaks of Ha Giang and the rich history of Hanoi. It offers bustling cities, peaceful countryside and unforgettable food experiences.",
+    "highlights": [
+      "Dynamic street food culture and coffee shops",
+      "Iconic landscapes from Ha Long Bay to the limestone cliffs of Ninh Binh",
+      "Colorful central coast cities like Hoi An and Hue",
+      "A scenic northern loop through Ha Giang",
+      "Warm hospitality and vibrant markets"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "February to April and August to October for the most pleasant weather across the country",
+    "transportation": [
+      "Domestic flights connect major cities quickly",
+      "Trains are a scenic option for the north-south route",
+      "Grab app and taxis are common in cities"
+    ],
+    "culturalNotes": [
+      "Dress modestly at temples and pagodas",
+      "Bargaining is expected in markets but keep it friendly",
+      "Try local street food carefully and carry water for hot days"
+    ]
+  },
+  "articles": []
+}

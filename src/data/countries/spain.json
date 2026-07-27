@@ -8,6 +8,7 @@
   "visaRequirements": "Schengen Visa required for most non-EU citizens",
   "currency": "Euro (€)",
   "languages": ["Spanish", "Catalan", "Basque", "Galician"],
+  "bestExperience": "Best experience: checking out the bridge in Ronda — photos don't do it justice, you have to see it in person.",
   "about": {
     "description": "Spain is a country in southwestern Europe known for its diverse culture, stunning architecture, and vibrant lifestyle. From the beaches of Costa del Sol to the historic streets of Barcelona and the flamenco culture of Andalusia, Spain offers a rich tapestry of experiences.",
     "highlights": [
@@ -21,7 +22,7 @@
       "name": "Sagrada Familia",
       "location": "Barcelona",
       "description": "Antoni Gaudí's unfinished masterpiece, a unique basilica combining Gothic and Art Nouveau styles.",
-      "image": "/images/spain/sagrada-familia.jpg"
+      "image": "/images/spain/articles/sagrada-familia.jpg"
     },
     {
       "name": "Alhambra",

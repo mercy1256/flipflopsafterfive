@@ -91,6 +91,10 @@ export async function generateStaticParams() {
   return articles
 }
 
+// Only serve the articles returned by generateStaticParams above — prevents
+// request-time fs reads from arbitrary/unsanitized slug segments.
+export const dynamicParams = false
+
 export default function BlogPost({ params }: { params: { slug: string[] } }) {
   // Join the slug array to get the relative path to the markdown file
   const relPath = params.slug.join('/')
@@ -186,7 +190,19 @@ export default function BlogPost({ params }: { params: { slug: string[] } }) {
           )}
 
           <div className="space-y-8">
-            <ReactMarkdown>{content}</ReactMarkdown>
+            <ReactMarkdown
+              components={{
+                img: ({ node, ...props }) => {
+                  const src = (props.src as string) || ''
+                  const rawAlt = (props.alt as string) || ''
+                  const fallback = src.split('/').pop()?.replace(/\.[^/.]+$/, '').replace(/[-_]/g, ' ') || data.title
+                  const altText = rawAlt || fallback || data.title
+                  return <img src={src} alt={altText} loading="lazy" className="rounded-md" />
+                },
+              }}
+            >
+              {content}
+            </ReactMarkdown>
           </div>
 
           <footer className="mt-12 pt-8 border-t border-gray-700">

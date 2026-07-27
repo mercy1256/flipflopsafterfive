@@ -6,6 +6,7 @@ export interface Country {
   visaRequirements: string;
   currency: string;
   languages: string[];
+  bestExperience?: string;
   about: {
     description: string;
     highlights: string[];

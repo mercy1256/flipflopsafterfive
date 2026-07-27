@@ -32,13 +32,17 @@ export default function ContactPage() {
     try {
       const form = e.target as HTMLFormElement
       const formData = new FormData(form)
-      
-      await fetch("/static-form-for-netlify.html", {
+
+      const response = await fetch("/static-form-for-netlify.html", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: new URLSearchParams(formData as any).toString(),
       })
-      
+
+      if (!response.ok) {
+        throw new Error(`Form submission failed with status ${response.status}`)
+      }
+
       setSubmitStatus('success')
       setFormData({ name: '', email: '', subject: '', message: '' })
     } catch (error) {

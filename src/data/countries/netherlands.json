@@ -1,0 +1,33 @@
+{
+  "name": "Netherlands",
+  "region": "Europe",
+  "capital": "Amsterdam",
+  "timeZone": "CET (UTC+1)",
+  "visaRequirements": "Schengen visa rules apply for many travelers; check current requirements before booking",
+  "currency": "Euro",
+  "languages": ["Dutch", "English widely spoken"],
+  "bestExperience": "Best experience: exploring Giethoorn by small boat, gliding along its quiet, car-free canals.",
+  "about": {
+    "description": "The Netherlands mixes vibrant cities, blooming tulip fields, and peaceful canals. It is easy to explore by train, bike, or boat.",
+    "highlights": [
+      "Iconic Amsterdam canals and museums",
+      "Historic windmills at Zaanse Schans",
+      "Colorful Keukenhof flower gardens",
+      "Quaint water village of Giethoorn"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "March to May for tulips, or September to October for mild weather and fewer crowds",
+    "transportation": [
+      "Fast train service between cities",
+      "Bicycles are one of the best ways to explore",
+      "Regional buses and trams connect small towns"
+    ],
+    "culturalNotes": [
+      "Try local cheeses and street food like stroopwafels",
+      "Respect cycling lanes—they are used aggressively",
+      "Take time to visit a museum or a canal boat tour"
+    ]
+  },
+  "articles": []
+}
