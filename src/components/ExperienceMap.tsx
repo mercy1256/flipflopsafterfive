@@ -1,6 +1,7 @@
 import ExperienceTileGrid from './ExperienceTileGrid'
 import fs from 'fs'
 import path from 'path'
+import imageManifest from '@/data/imageManifest.json'
 
 type Country = {
   slug: string
@@ -18,37 +19,16 @@ export default function ExperienceMap() {
     files = []
   }
 
-  const publicImagesDir = path.join(process.cwd(), 'public', 'images')
-
-  const imageExists = (src: string) => fs.existsSync(path.join(publicImagesDir, ...src.replace(/^\/images\//, '').split('/')))
-
-  const getCountryImage = (slug: string) => {
-    const candidates = [
-      { src: `/images/${slug}/main.jpg`, path: path.join(publicImagesDir, slug, 'main.jpg') },
-      { src: `/images/${slug}/cover.jpg`, path: path.join(publicImagesDir, slug, 'cover.jpg') },
-      { src: `/images/${slug}.jpg`, path: path.join(publicImagesDir, `${slug}.jpg`) },
-    ]
-    const found = candidates.find((candidate) => fs.existsSync(candidate.path))
-    return found ? found.src : '/images/placeholder.svg'
-  }
-
   const countries: Country[] = files.map((file) => {
     const slug = file.replace(/\.json$/, '')
     try {
       const raw = fs.readFileSync(path.join(countriesDir, file), 'utf8')
       const data = JSON.parse(raw)
-      // Data-sourced image paths (articles/attractions) aren't guaranteed to exist on disk,
-      // so verify before using them and fall back to the known-good country cover image.
-      const articleImage = data.articles?.[0]?.image
-      const attractionImage = data.attractions?.[0]?.image
-      const image =
-        (articleImage && imageExists(articleImage) && articleImage) ||
-        (attractionImage && imageExists(attractionImage) && attractionImage) ||
-        getCountryImage(slug)
+      const image = (imageManifest as Record<string, { heroImage: string; tileImage: string }>)[slug]?.tileImage || '/images/placeholder.svg'
       const snippet = data.bestExperience || data.about?.description || data.articles?.[0]?.description || data.attractions?.[0]?.description || ''
       return { slug, name: data.name || slug, image, snippet }
     } catch (err) {
-      return { slug, name: slug, image: getCountryImage(slug), snippet: '' }
+      return { slug, name: slug, image: '/images/placeholder.svg', snippet: '' }
     }
   })
 

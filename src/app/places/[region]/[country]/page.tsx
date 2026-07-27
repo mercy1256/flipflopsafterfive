@@ -5,6 +5,7 @@ import { Country } from '@/types/country'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import imageManifest from '@/data/imageManifest.json'
 import italyData from '@/data/countries/italy.json'
 import spainData from '@/data/countries/spain.json'
 import icelandData from '@/data/countries/iceland.json'
@@ -45,16 +46,21 @@ const countryDataMap: Record<string, Country> = {
   // Add more country mappings as needed
 }
 
-const getCountryHeroImage = (country: string) => {
-  const publicImagesDir = path.join(process.cwd(), 'public', 'images')
-  const candidates = [
-    { src: `/images/${country}/main.jpg`, path: path.join(publicImagesDir, country, 'main.jpg') },
-    { src: `/images/${country}/cover.jpg`, path: path.join(publicImagesDir, country, 'cover.jpg') },
-    { src: `/images/${country}.jpg`, path: path.join(publicImagesDir, `${country}.jpg`) },
-  ]
-  const found = candidates.find((candidate) => fs.existsSync(candidate.path))
-  return found ? found.src : '/images/placeholder.svg'
+const getCountryHeroImage = (country: string) =>
+  (imageManifest as Record<string, { heroImage: string; tileImage: string }>)[country]?.heroImage || '/images/placeholder.svg'
+
+const ASIA_COUNTRIES = new Set(['thailand', 'vietnam'])
+
+export async function generateStaticParams() {
+  return Object.keys(countryDataMap).map((country) => ({
+    region: ASIA_COUNTRIES.has(country) ? 'asia' : 'europe',
+    country,
+  }))
 }
+
+// Only serve the region/country combos returned by generateStaticParams above —
+// prevents request-time fs reads from arbitrary/unsanitized route segments.
+export const dynamicParams = false
 
 async function getArticles(country: string) {
   const articlesDirectory = path.join(process.cwd(), 'src/content/articles', country)

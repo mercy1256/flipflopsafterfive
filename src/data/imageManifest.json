@@ -1,0 +1,70 @@
+{
+  "albania": {
+    "heroImage": "/images/albania/main.jpg",
+    "tileImage": "/images/albania/main.jpg"
+  },
+  "austria": {
+    "heroImage": "/images/austria/main.jpg",
+    "tileImage": "/images/austria/main.jpg"
+  },
+  "belgium": {
+    "heroImage": "/images/belgium.jpg",
+    "tileImage": "/images/belgium.jpg"
+  },
+  "croatia": {
+    "heroImage": "/images/croatia/main.jpg",
+    "tileImage": "/images/croatia/main.jpg"
+  },
+  "finland": {
+    "heroImage": "/images/finland/main.jpg",
+    "tileImage": "/images/finland/main.jpg"
+  },
+  "france": {
+    "heroImage": "/images/france/main.jpg",
+    "tileImage": "/images/france/articles/lavender-fields.jpg"
+  },
+  "greece": {
+    "heroImage": "/images/greece/main.jpg",
+    "tileImage": "/images/greece/main.jpg"
+  },
+  "iceland": {
+    "heroImage": "/images/iceland/main.jpg",
+    "tileImage": "/images/iceland/main.jpg"
+  },
+  "italy": {
+    "heroImage": "/images/italy/main.jpg",
+    "tileImage": "/images/italy/articles/colosseum.jpg"
+  },
+  "netherlands": {
+    "heroImage": "/images/netherlands.jpg",
+    "tileImage": "/images/netherlands.jpg"
+  },
+  "norway": {
+    "heroImage": "/images/norway/main.jpg",
+    "tileImage": "/images/norway/main.jpg"
+  },
+  "portugal": {
+    "heroImage": "/images/portugal/main.jpg",
+    "tileImage": "/images/portugal/main.jpg"
+  },
+  "slovenia": {
+    "heroImage": "/images/slovenia/main.jpg",
+    "tileImage": "/images/slovenia/main.jpg"
+  },
+  "spain": {
+    "heroImage": "/images/spain/main.jpg",
+    "tileImage": "/images/spain/articles/sagrada-familia.jpg"
+  },
+  "switzerland": {
+    "heroImage": "/images/switzerland.jpg",
+    "tileImage": "/images/switzerland.jpg"
+  },
+  "thailand": {
+    "heroImage": "/images/thailand/main.jpg",
+    "tileImage": "/images/thailand/main.jpg"
+  },
+  "vietnam": {
+    "heroImage": "/images/vietnam.jpg",
+    "tileImage": "/images/vietnam.jpg"
+  }
+}
