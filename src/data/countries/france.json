@@ -7,7 +7,9 @@
   "timeZone": "CET (UTC+1)",
   "visaRequirements": "Schengen Visa required for most non-EU citizens",
   "currency": "Euro (€)",
-  "languages": ["French"],
+  "languages": [
+    "French"
+  ],
   "bestExperience": "Best experience: kayaking through the Gorges du Verdon — an absolutely epic way to see those cliffs.",
   "about": {
     "description": "France is renowned for its rich history, world-class art, iconic landmarks, and exquisite cuisine. From the romantic streets of Paris to the sun-soaked beaches of the French Riviera, France offers something for every traveler.",
@@ -17,43 +19,6 @@
       "Diverse landscapes: Alps, lavender fields, and Mediterranean coast"
     ]
   },
-  "attractions": [
-    {
-      "name": "Eiffel Tower",
-      "location": "Paris",
-      "description": "The iconic symbol of France, offering panoramic views of Paris.",
-      "image": "/images/france/eiffel-tower.jpg"
-    },
-    {
-      "name": "Lavender Fields",
-      "location": "Provence",
-      "description": "Endless purple fields in bloom during summer, a photographer's dream.",
-      "image": "/images/france/lavender-fields.jpg"
-    },
-    {
-      "name": "Calanques National Park",
-      "location": "Marseille",
-      "description": "Stunning limestone cliffs and turquoise coves along the Mediterranean coast.",
-      "image": "/images/france/calanques.jpg"
-    }
-  ],
-  "cuisine": [
-    {
-      "name": "Croissant",
-      "description": "Flaky, buttery pastry enjoyed for breakfast across France.",
-      "image": "/images/france/croissant.jpg"
-    },
-    {
-      "name": "Ratatouille",
-      "description": "A traditional Provençal stewed vegetable dish.",
-      "image": "/images/france/ratatouille.jpg"
-    },
-    {
-      "name": "Bouillabaisse",
-      "description": "A flavorful fish stew from Marseille.",
-      "image": "/images/france/bouillabaisse.jpg"
-    }
-  ],
   "travelTips": {
     "bestTimeToVisit": "April-June and September-October",
     "transportation": [
@@ -77,4 +42,4 @@
       "readTime": "7 min read"
     }
   ]
-} 
+}

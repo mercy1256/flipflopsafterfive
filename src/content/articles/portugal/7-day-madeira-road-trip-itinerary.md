@@ -1,9 +1,11 @@
 ---
 title: "7 Day Madeira Road Trip Itinerary"
+description: "A 7-day Madeira road trip — Funchal, the Pico do Arieiro to Pico Ruivo hike, the northern coast at Porto Moniz, the Fanal forest, and the island's best levada walks."
 date: "2024-12-19"
-readTime: "10 min read"
+readTime: "5 min read"
 author: "Urvish Shah"
 image: "/images/portugal/articles/7-day-madeira-road-trip-itinerary.jpg"
+tags: ["Portugal", "Madeira", "Road Trip", "Hiking", "Itinerary"]
 ---
 
 Madeira, the "Pearl of the Atlantic," is a stunning Portuguese island known for its dramatic landscapes, lush forests, and breathtaking coastal views. This 7-day road trip itinerary will take you through the island's most spectacular sights, from the rugged north coast to the towering peaks of the interior.

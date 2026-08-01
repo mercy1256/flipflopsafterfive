@@ -7,7 +7,7 @@ const playlists = [
     title: 'Weekend in Europe',
     subtitle: 'Short escapes for busy travelers',
     description: 'Two-to-four-day journeys through iconic cities and scenic countryside routes.',
-    image: '/images/blog-playlists/weekend-in-europe.svg',
+    image: '/images/austria/articles/hallstatt.jpg',
     tag: 'Quick Trips',
     href: '/blog/collections/weekend-in-europe'
   },
@@ -15,7 +15,7 @@ const playlists = [
     title: 'City Essentials',
     subtitle: 'Culture, food, and urban vibes',
     description: 'Curated city playlists that pair local eats, landmarks, and unforgettable neighborhoods.',
-    image: '/images/blog-playlists/city-essentials.svg',
+    image: '/images/experiences/cities/prague-city-break.jpg',
     tag: 'City Guide',
     href: '/blog/collections/city-essentials'
   },
@@ -23,7 +23,7 @@ const playlists = [
     title: 'Mountain & Lake Escapes',
     subtitle: 'Fresh air and scenic views',
     description: 'Routes built for alpine hikes, lakeside stays, and nature breaks off the beaten path.',
-    image: '/images/blog-playlists/mountain-lake.svg',
+    image: '/images/austria/articles/achensee.jpg',
     tag: 'Nature',
     href: '/blog/collections/mountain-lake-escapes'
   },
@@ -31,7 +31,7 @@ const playlists = [
     title: 'Coastal Highlights',
     subtitle: 'Beach days, cliffs, and seaside towns',
     description: 'A seaside collection of coastal drives, charming ports, and ocean-view adventures.',
-    image: '/images/blog-playlists/coastal-highlights.svg',
+    image: '/images/croatia/articles/dubrovnik.jpg',
     tag: 'Coastal',
     href: '/blog/collections/coastal-highlights'
   },
@@ -39,7 +39,7 @@ const playlists = [
     title: 'Food & Culture Trails',
     subtitle: 'Tastes, markets, and local rituals',
     description: 'Travel playlists focused on authentic dining, hidden cafes, and cultural experiences.',
-    image: '/images/blog-playlists/food-culture.svg',
+    image: '/images/experiences/road-trips/strasbourg-christmas-market.jpg',
     tag: 'Foodie',
     href: '/blog/collections/food-culture-trails'
   },
@@ -47,7 +47,7 @@ const playlists = [
     title: 'Solo Traveler Guides',
     subtitle: 'Safe, smart, inspiring solo plans',
     description: 'Essential solo travel playlists shaped for confidence, ease, and memorable moments.',
-    image: '/images/blog-playlists/solo-travel.svg',
+    image: '/images/vietnam/articles/solotrip-itinerary-14-days-in-vietnam.jpg',
     tag: 'Solo',
     href: '/blog/collections/solo-traveler-guides'
   }

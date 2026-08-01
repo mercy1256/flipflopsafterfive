@@ -33,6 +33,11 @@ export const metadata: Metadata = {
     'croatia travel',
     'austria travel',
     'slovenia travel',
+    'denmark travel',
+    'germany travel',
+    'hungary travel',
+    'czech republic travel',
+    'uk travel',
     'norway travel',
     'finland travel',
     'thailand travel',
@@ -71,7 +76,7 @@ export const metadata: Metadata = {
     title: 'FlipFlopsAfterFive - Travel Blog & Adventure Guides',
     description: 'Discover amazing travel destinations, adventure guides, and travel tips for working professionals.',
     images: ['/images/home.jpg'],
-    creator: '@flipflopsafterfive',
+    // `creator` omitted until the @flipflopsafterfive account actually exists.
   },
   robots: {
     index: true,
@@ -84,9 +89,10 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  verification: {
-    google: 'your-google-verification-code', // Replace with your actual verification code
-  },
+  // Search Console verification is done with the HTML file at
+  // public/googlea19e6c117f445065.html, so no meta tag is needed here. The previous
+  // `verification.google` value was the literal placeholder string, which shipped a
+  // bogus <meta name="google-site-verification"> on every page.
 }
 
 export default function RootLayout({
@@ -116,11 +122,9 @@ export default function RootLayout({
               "name": "FlipFlopsAfterFive",
               "url": "https://flipflopsafterfive.com",
               "logo": "https://flipflopsafterfive.com/images/home.jpg",
-              "description": "A premium travel blog for those who love to explore after work hours",
-              "sameAs": [
-                "https://twitter.com/flipflopsafterfive",
-                "https://instagram.com/flipflopsafterfive"
-              ]
+              "description": "A premium travel blog for those who love to explore after work hours"
+              // No `sameAs` until the social accounts exist — pointing it at profiles
+              // that 404 is a schema accuracy problem, not just a dead link.
             })
           }}
         />
@@ -188,8 +192,6 @@ export default function RootLayout({
                   <h4 className="font-bold mb-4">Connect</h4>
                   <ul className="space-y-2 text-text-light">
                     <li><Link href="/contact" className="hover:text-accent-light transition-colors">Contact</Link></li>
-                    <li><a href="https://twitter.com/flipflopsafterfive" target="_blank" rel="noopener noreferrer" className="hover:text-accent-light transition-colors">Twitter</a></li>
-                    <li><a href="https://instagram.com/flipflopsafterfive" target="_blank" rel="noopener noreferrer" className="hover:text-accent-light transition-colors">Instagram</a></li>
                   </ul>
                 </div>
 

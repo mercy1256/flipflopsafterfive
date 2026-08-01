@@ -1,0 +1,35 @@
+{
+  "name": "United Kingdom",
+  "region": "Europe",
+  "capital": "London",
+  "timeZone": "GMT (UTC+0), BST (UTC+1 in summer)",
+  "visaRequirements": "Not in the Schengen Area — a separate UK visa or ETA is required for many visitors",
+  "currency": "Pound Sterling (GBP)",
+  "languages": ["English"],
+  "bestExperience": "Best experience: the Warner Bros. Harry Potter studio tour, hands down.",
+  "about": {
+    "description": "London is big in a way that catches people out — it is less a city you walk than a set of neighbourhoods joined by the Underground, and the distances between the things you want to see are the main thing to plan around. The major museums are free, which does more for a budget here than anything else.",
+    "highlights": [
+      "Free entry to the British Museum and the Natural History Museum",
+      "Westminster, Big Ben and the Abbey",
+      "The Warner Bros. Studio Tour for the Harry Potter films",
+      "Greenwich, Camden and the neighbourhoods away from the centre",
+      "Wembley Stadium and the Sherlock Holmes Museum for the specific pilgrimages"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "May to September for the best weather and the longest days",
+    "transportation": [
+      "The Underground is the only sensible way to cross the city",
+      "Contactless card or phone taps in and out — no need to buy tickets",
+      "Book the Warner Bros. Studio Tour well in advance; it sells out"
+    ],
+    "culturalNotes": [
+      "Not in the Schengen Area — check entry requirements separately from the EU",
+      "Pounds sterling, not euros",
+      "Stand on the right on escalators",
+      "Most national museums are free, but special exhibitions are not"
+    ]
+  },
+  "articles": []
+}

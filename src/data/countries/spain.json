@@ -28,61 +28,54 @@
       "name": "Alhambra",
       "location": "Granada",
       "description": "A stunning palace and fortress complex from the Moorish period.",
-      "image": "/images/spain/alhambra.jpg"
+      "image": "/images/spain/articles/alhambra.jpg"
     },
     {
       "name": "Park Güell",
       "location": "Barcelona",
       "description": "A public park system composed of gardens and architectonic elements designed by Gaudí.",
-      "image": "/images/spain/park-guell.jpg"
+      "image": "/images/spain/articles/park-guell.jpg"
+    },
+    {
+      "name": "Caminito del Rey",
+      "location": "El Chorro, Malaga",
+      "description": "A restored walkway pinned to the wall of the Gaitanes Gorge, once one of the most dangerous paths in the world.",
+      "image": "/images/spain/articles/caminito-del-rey.jpg"
+    },
+    {
+      "name": "Puente Nuevo",
+      "location": "Ronda",
+      "description": "An eighteenth-century bridge spanning the gorge that splits the hill town of Ronda in two.",
+      "image": "/images/spain/articles/ronda.jpg"
     }
   ],
   "cuisine": [
     {
       "name": "Paella",
-      "description": "A traditional Valencian rice dish with seafood, meat, and vegetables.",
-      "image": "/images/spain/paella.jpg"
+      "description": "A traditional Valencian rice dish with seafood, meat, and vegetables."
     },
     {
       "name": "Tapas",
-      "description": "A variety of small savory dishes, typically served with drinks at bars.",
-      "image": "/images/spain/tapas.jpg"
+      "description": "A variety of small savory dishes, typically served with drinks at bars."
     },
     {
       "name": "Churros",
-      "description": "Fried-dough pastries, often served with hot chocolate for dipping.",
-      "image": "/images/spain/churros.jpg"
+      "description": "Fried-dough pastries, often served with hot chocolate for dipping."
     }
   ],
   "travelTips": {
     "bestTimeToVisit": "March-May and September-October",
     "transportation": [
-      "Extensive high-speed train network (AVE)",
+      "Extensive high-speed train network (AVE) — book around 6 weeks ahead for the cheapest fares",
       "Well-developed metro systems in major cities",
-      "Efficient bus network"
+      "Efficient bus network",
+      "A hire car is worth it in Andalusia for Ronda and the Caminito del Rey"
     ],
     "culturalNotes": [
       "Dinner is typically served late (after 9 PM)",
       "Many shops close for siesta in the afternoon",
-      "Tipping is not mandatory but appreciated"
+      "Tipping is not mandatory but appreciated",
+      "Book the Alhambra at least 2 months ahead — it is the one sight that reliably sells out"
     ]
-  },
-  "articles": [
-    {
-      "title": "Barcelona Architecture Tour",
-      "slug": "barcelona-architecture",
-      "description": "Explore the stunning works of Antoni Gaudí and other architectural marvels.",
-      "image": "/images/spain/barcelona-architecture.jpg",
-      "date": "2024-03-19",
-      "readTime": "11 min read"
-    },
-    {
-      "title": "Madrid Food Guide",
-      "slug": "madrid-food-guide",
-      "description": "A culinary journey through Madrid's best tapas bars and restaurants.",
-      "image": "/images/spain/madrid-food.jpg",
-      "date": "2024-03-14",
-      "readTime": "7 min read"
-    }
-  ]
-} 
+  }
+}

@@ -1,282 +1,175 @@
 ---
-title: "7 days Amalfi Coast Itinerary"
-description: "A detailed 7-day itinerary for exploring the stunning Amalfi Coast in Italy."
+title: "7-Day Southern Italy Itinerary: Amalfi Coast, Puglia and Naples"
+description: "A 7-day southern Italy itinerary — the Amalfi Coast, Capri and the Path of the Gods, then Matera, Alberobello and Polignano in Puglia, finishing in Naples and Pompeii. Including why Puglia is the better value."
 date: "2023-10-26"
+readTime: "7 min read"
 image: "/images/italy/articles/7-days-amalfi-coast-itinerary-min.jpg"
 author: "Urvish Shah"
-tags: ["Amalfi Coast", "Italy", "Itinerary", "Travel Guide"]
+tags: ["Italy", "Amalfi Coast", "Puglia", "Naples", "Itinerary", "Southern Italy"]
 ---
 
-# 7 Days Amalfi Coast Itinerary
+This route covers three quite different parts of southern Italy in a week: the cliffside towns of the **Amalfi Coast**, the caves and trulli of **Puglia**, and **Naples** with Pompeii.
 
+Here's the verdict I'd lead with, having done all three:
 
-## Overview
+> **The Amalfi Coast looks incredible, but it is very expensive. Puglia isn't as spectacular — there's nothing there to match those stacked coloured houses — but it's far better value for money.**
 
-The Amalfi Coast, a UNESCO World Heritage site in southern Italy, is renowned for its breathtaking coastal landscapes, charming towns clinging to cliffs, and crystal-clear waters. This 7-day itinerary will take you through the highlights of the Amalfi Coast and nearby regions, combining scenic beauty with rich history and delicious cuisine.
+Most people doing a week in southern Italy spend all of it on the Amalfi Coast. I'd argue splitting your time is the better trip, and the rest of this is how I'd do it.
 
-**Best Time to Visit**: May-June and September-October (to avoid peak crowds and heat)
-**Difficulty Level**: Moderate (involves walking, some stairs, and travel between locations)
-**Transportation**: Mix of ferries, buses, and trains; consider a private driver for convenience on some days.
+If you're heading north instead, I've written a separate [11-day itinerary through Rome, Florence and Venice](/blog/italy/11-day-italy-itinerary), a [2-day Rome guide](/blog/italy/2-days-in-rome) and a [7-day Dolomites itinerary](/blog/italy/7-day-dolomites-itinerary).
 
 ---
 
-## Day 1: Sorrento, Positano
+## Practical notes before you start
 
-### Morning: Arrival in Sorrento & Exploration
+**You don't need to book much in advance.** I booked essentially nothing and it was fine. **Ferries and regional trains were cheap and reliable throughout**, and turning up on the day never caused me a problem. This is a refreshing contrast to Rome, where the [Colosseum and Vatican need booking 1.5 months out](/blog/italy/2-days-in-rome).
 
-*   **Getting There**: Fly into Naples International Airport (NAP). From Naples, take the Circumvesuviana train to Sorrento (approx. 1 hour) or a private transfer.
-*   **Check-in**: Settle into your accommodation in Sorrento.
-*   **Sorrento Town**: Explore the charming streets of Sorrento, visit Piazza Tasso, and enjoy the panoramic views from the Villa Comunale.
+**Base yourself in Sorrento for the Amalfi section.** This worked well — Capri is an easy day trip from there, and both Positano and Amalfi are straightforward to reach.
 
-![Sorrento](/images/italy/articles/7-days-amalfi-coast-itinerary-min.jpg)
+**Go in shoulder season, and still expect heat.** I went in **October** and it was *still* too hot on the exposed hiking. Worth knowing before you plan a midday walk.
 
-### Afternoon: Positano Charm
+---
 
-*   **Ferry to Positano**: Take a scenic ferry ride from Sorrento to Positano (approx. 30 minutes). This offers the best views of the coastline.
-*   **Positano Exploration**: Wander through the colorful, narrow streets cascading down to the sea. Visit the Church of Santa Maria Assunta and relax on Spiaggia Grande beach.
-*   **Highlights**: Iconic views of Positano, boutique shopping, beach time.
+## Day 1: Sorrento and Positano
+
+Fly into Naples and take the Circumvesuviana train to Sorrento — about an hour.
+
+Spend the first afternoon in Sorrento itself: **Piazza Tasso** and the views from the **Villa Comunale** are enough to fill the time while you adjust.
+
+Then take the **ferry to Positano** (about 30 minutes). Do this by boat rather than road — the approach from the water is how Positano is meant to be seen, with the whole town stacked up the cliff in front of you.
+
+Positano is **genuinely overcrowded**, and I won't pretend otherwise. But it still looks amazing despite the crowds, which is not something I'd say about every over-touristed place. Walk the narrow streets down to **Spiaggia Grande**.
 
 ![Positano](/images/italy/articles/positano-min.jpg)
 
-### Evening: Dinner with a View
-
-*   **Dinner in Positano**: Enjoy fresh seafood at a beachfront restaurant.
-*   **Return to Sorrento**: Take a late ferry or bus back to Sorrento.
-*   **Accommodation**: Sorrento
-
 ---
 
-## Day 2: Path of the Gods and Amalfi
+## Day 2: The Path of the Gods and Amalfi
 
-### Morning: Hike the Path of the Gods
+### The Path of the Gods
 
-*   **Transfer to Bomerano**: Take a bus from Sorrento to Amalfi, then another bus up to Bomerano (the starting point of the Path of the Gods).
-*   **Hiking**: Embark on the famous Path of the Gods (Sentiero degli Dei) from Bomerano to Nocelle. This moderately challenging hike offers spectacular panoramic views of the coastline and Capri.
-*   **Duration**: 2-3 hours of hiking.
+Take a bus from Sorrento to Amalfi and another up to **Bomerano**, where the trail starts.
+
+**It's not as hard as its reputation suggests.** The walk from Bomerano to Nocelle took me **roughly three hours**, and the trail itself is manageable for anyone reasonably fit.
+
+The real difficulty isn't the terrain, it's the exposure:
+
+> **Check the weather and start early.** It was too hot when I did it, and that was in October. There's very little shade along the route and the heat is the thing that will actually ruin the walk for you.
+
+The views along the coastline — and out to Capri — are the best on this trip.
 
 ![Path of the Gods](/images/italy/articles/path-of-the-gods-min.jpg)
 
-### Afternoon: Discover Amalfi
+### Amalfi
 
-*   **Descent to Positano**: From Nocelle, take stairs down to Arienzo or a local bus to Positano.
-*   **Ferry to Amalfi**: Take a ferry from Positano to Amalfi, the historic maritime republic.
-*   **Amalfi Exploration**: Visit the stunning Duomo di Sant'Andrea, explore the paper museum, and stroll through the charming Piazza Flavio Gioia.
-*   **Highlights**: Historic architecture, local shops, limoncello tasting.
+From Nocelle, descend to Positano and take the ferry to **Amalfi**. The **Duomo di Sant'Andrea** is the centrepiece, and the paper museum is a decent way to spend an hour.
 
 ![Amalfi](/images/italy/articles/amalfi-min.jpg)
 
-### Evening: Relax in Amalfi
-
-*   **Dinner in Amalfi**: Enjoy traditional Amalfitan cuisine.
-*   **Return to Sorrento**: Take a bus or ferry back to Sorrento.
-*   **Accommodation**: Sorrento
-
 ---
 
-## Day 3: Capri Day Trip & Travel to Bari
+## Day 3: Capri, then the long haul to Puglia
 
-### Morning: Enchanting Capri
+**Fair warning: this is a brutal day.** Capri in the morning, then a four-hour train across the country to Bari. It's doable — I did it — but it's **not for the faint-hearted**, and if you'd rather not spend an evening on a train after a full day on an island, split it across two days.
 
-*   **Ferry to Capri**: Take an early ferry from Sorrento to the island of Capri (approx. 20-30 minutes).
-*   **Explore Capri**: 
-    *   **Blue Grotto**: (Optional, weather permitting) take a small rowboat into the magical blue cave.
-    *   **Anacapri**: Take the chairlift to Monte Solaro for incredible 360-degree views.
-    *   **Capri Town**: Wander through the Piazzetta, visit the Gardens of Augustus, and enjoy the Faraglioni rock formations.
-*   **Highlights**: Stunning island scenery, luxury shopping, iconic landmarks.
+### Capri
+
+Take an early ferry from Sorrento (20–30 minutes).
+
+**Skip the Blue Grotto.** It's the thing everyone photographs and, in my opinion, it isn't worth it — you queue, you're rushed through on a small boat, and it's over.
+
+What *is* worth it is the **chairlift up Monte Solaro from Anacapri**, which gives you a 360-degree view over the whole island and the coastline you walked the day before. The **Gardens of Augustus** and the Faraglioni rocks are also worth your time.
 
 ![Capri](/images/italy/articles/capri-min.jpg)
 
-### Afternoon: Journey to Bari
+### On to Bari
 
-*   **Return to Naples**: Take a ferry from Capri back to Naples.
-*   **Train to Bari**: From Naples, take a high-speed train to Bari (approx. 4 hours).
-*   **Check-in**: Settle into your accommodation in Bari.
+Ferry back to Naples, then the high-speed train to **Bari** — about four hours.
 
-![Bari](/images/italy/articles/bari-min.jpg)
+Bari Vecchia, the old town, is a maze of streets with real daily life happening in it rather than a preserved showpiece. It's also where you'll notice the price difference from the Amalfi Coast immediately.
 
-### Evening: Bari Old Town
-
-*   **Bari Vecchia**: Explore Bari's atmospheric old town, with its labyrinthine streets and authentic local life.
-*   **Dinner**: Enjoy fresh pasta (orecchiette) and other Puglian specialties.
-*   **Accommodation**: Bari
+![Bari old town, Puglia](/images/italy/articles/bari.jpg)
 
 ---
 
 ## Day 4: Matera and Alberobello
 
-### Morning: Ancient Matera
+This is the day that justifies coming to Puglia at all, and it's the most unusual day of the week.
 
-*   **Travel to Matera**: Take a local train or bus from Bari to Matera (approx. 1.5 hours).
-*   **Sassi di Matera**: Explore the incredible cave dwellings, a UNESCO World Heritage site. Visit the Rupestrian Churches and Casa Grotta di Vico Solitario to experience ancient cave life.
-*   **Highlights**: Unique architecture, historical insights, breathtaking views.
+### Matera
+
+An hour and a half from Bari. The **Sassi di Matera** are cave dwellings carved into the rock, continuously inhabited for thousands of years and now a UNESCO site. The **Casa Grotta di Vico Solitario** shows you how families actually lived in them, which turns the view from a photograph into something more uncomfortable and more interesting.
+
+There is nowhere else in Italy that looks like this.
 
 ![Matera](/images/italy/articles/matera-min.jpg)
 
-### Afternoon: Trulli of Alberobello
+### Alberobello
 
-*   **Travel to Alberobello**: Take a train or bus from Matera to Alberobello (approx. 1 hour, may require a change).
-*   **Trulli Zone**: Wander through the Rione Monti and Aia Piccola districts, admiring the iconic trulli houses with their conical roofs.
-*   **Highlights**: Fairytale architecture, unique cultural experience, local crafts.
+An hour on from Matera, and completely different again: hundreds of **trulli**, whitewashed houses with conical stone roofs, packed into the Rione Monti and Aia Piccola districts.
+
+It is touristy, and the main streets are lined with souvenir shops. Walk into the quieter district and it settles down considerably.
 
 ![Alberobello](/images/italy/articles/alberobello-min.jpg)
 
-### Evening: Return to Bari
-
-*   **Dinner**: Enjoy local Apulian cuisine in Alberobello or upon return to Bari.
-*   **Accommodation**: Bari
-
 ---
 
-## Day 5: Polignano a Mare & Travel to Naples
+## Day 5: Polignano a Mare, then Naples
 
-### Morning: Coastal Beauty of Polignano a Mare
+**Polignano a Mare** is 30 minutes by train from Bari, and it's the best of the Puglian coast — an old town perched on limestone cliffs above **Lama Monachile**, a cove beach wedged between the rock walls.
 
-*   **Travel to Polignano a Mare**: Take a short train ride from Bari to Polignano a Mare (approx. 30 minutes).
-*   **Cliffside Town**: Explore the charming old town perched on limestone cliffs. Visit Lama Monachile beach (Cala Porto) for iconic views and a swim.
-*   **Highlights**: Dramatic cliffs, crystal-clear waters, historic center.
+This is the comparison that sums up the trip: it isn't as immediately dramatic as Positano, but you can actually afford to eat there.
 
 ![Polignano a Mare](/images/italy/articles/polignano-a-mare-min.jpg)
 
-### Afternoon: Journey to Naples
-
-*   **Return to Bari**: Take the train back to Bari.
-*   **Train to Naples**: From Bari, take a high-speed train to Naples (approx. 4 hours).
-*   **Check-in**: Settle into your accommodation in Naples.
-
-
-### Evening: Neapolitan Pizza
-
-*   **Dinner**: Indulge in authentic Neapolitan pizza at one of the city's famous pizzerias.
-*   **Accommodation**: Naples
+Then the high-speed train back across to **Naples**, about four hours.
 
 ---
 
-## Day 6: Explore Naples
+## Day 6: Naples
 
-### Morning: Historic Naples
+**Naples is chaotic, and it has an energy I haven't found in any other city.** That's the honest summary. It is loud, crowded and slightly overwhelming, and it's also the most alive place on this itinerary.
 
-*   **Spaccanapoli**: Walk through the narrow, bustling streets of the historic center, known as Spaccanapoli.
-*   **Naples Cathedral**: Visit the Duomo di San Gennaro.
-*   **Napoli Sotterranea**: Explore the fascinating underground city beneath Naples.
-*   **Highlights**: Rich history, vibrant street life, ancient ruins.
+On the reputation: **pickpockets are everywhere in Italy, and I didn't find Naples noticeably worse than anywhere else.** I had more trouble around the [Colosseum in Rome](/blog/italy/2-days-in-rome) than I did here. Take the usual precautions and don't let the city's reputation put you off.
 
-![Naples Street](/images/italy/articles/naples-min.jpg)
+Worth your day:
 
-### Afternoon: Art & Culture
+- **Spaccanapoli** — the straight, narrow street cutting through the historic centre
+- **Napoli Sotterranea** — the underground city beneath the streets
+- **National Archaeological Museum** — this holds the actual finds from Pompeii, so it pairs well with tomorrow
 
-*   **National Archaeological Museum**: Home to an incredible collection of artifacts from Pompeii and Herculaneum.
-*   **Piazza del Plebiscito**: Visit this grand square, flanked by the Royal Palace and the Basilica di San Francesco di Paola.
-*   **Shopping**: Explore the upscale boutiques along Via Toledo.
+![Naples](/images/italy/articles/naples-min.jpg)
 
-### Evening: Naples Gastronomy
-
-*   **Dinner**: Enjoy more Neapolitan specialties, perhaps a seafood dish or a pasta classic.
-*   **Accommodation**: Naples
+**On pizza:** every famous pizzeria in Naples is good. I don't have one to single out, and I'd be suspicious of anyone who insists there's only one correct answer. Pick one, queue, eat.
 
 ---
 
-## Day 7: Ancient Pompeii and Departure
+## Day 7: Pompeii
 
-### Morning: Journey to Ancient Pompeii
+The Circumvesuviana train runs from Naples to Pompeii Scavi in about 30 minutes.
 
-*   **Circumvesuviana Train**: Take the Circumvesuviana train from Naples to Pompeii Scavi (approx. 30 minutes).
-*   **Pompeii Ruins**: Spend several hours exploring the remarkably preserved ruins of the ancient Roman city, buried by the eruption of Mount Vesuvius in 79 AD.
-*   **Highlights**: Forum, amphitheater, villas, frescoes, plaster casts of victims.
+Give it several hours. Having seen the museum in Naples the day before makes a real difference here — you've already seen the frescoes and objects that came out of these houses, so the empty rooms fill themselves in.
 
-![Pompeii](/images/italy/articles/pompeii-min.jpg)
+![Ruins of ancient Pompeii](/images/italy/articles/pompeii.jpg)
 
-### Afternoon: Departure
-
-*   **Return to Naples**: Take the Circumvesuviana train back to Naples.
-*   **Transfer to Airport**: Head to Naples International Airport (NAP) for your departure.
-*   **Optional**: If time permits, a quick visit to Mount Vesuvius (requires additional travel and time).
+Then back to Naples for the airport.
 
 ---
 
-## Practical Information
+## What I'd tell you honestly
 
-### Accommodation
+**Don't eat on the Amalfi Coast if you can avoid it.** Everything is expensive, and you're paying for the view rather than the food. Eat in Sorrento, eat in Puglia, eat in Naples — all three are better value and, in Naples' case, better food.
 
-*   **Sorrento**: Excellent base for the Amalfi Coast, with a wide range of hotels and B&Bs.
-*   **Bari**: Good options for hotels and apartments, especially near the old town.
-*   **Naples**: Diverse accommodation, from budget-friendly hostels to luxury hotels.
+**Puglia is the better value half of this trip.** The Amalfi Coast is more beautiful; there's no argument there. But Puglia gave me more for the money, and Matera is the single most unusual place I saw in Italy.
 
-### Food & Dining
+**Skip the Blue Grotto.** Spend the time and money on Monte Solaro instead.
 
-*   **Amalfi Coast**: Fresh seafood, limoncello, pasta dishes, sfogliatella (pastry).
-*   **Puglia (Bari, Matera, Alberobello, Polignano a Mare)**: Orecchiette pasta, focaccia barese, burrata, olive oil, Primitivo wine.
-*   **Naples**: World-famous pizza, ragù, pasta e patate, fried street food, espresso.
+**Positano is worth it despite the crowds.** That's rarer than it sounds.
 
-### Transportation
-
-*   **Ferries**: Best way to travel between coastal towns on the Amalfi Coast (Sorrento, Positano, Amalfi, Capri).
-*   **Buses (SITA Sud)**: Connect towns along the Amalfi Coast and to Naples, but can be crowded.
-*   **Trains (Trenitalia, Italo)**: High-speed trains for inter-city travel (Naples-Bari).
-*   **Circumvesuviana Train**: Connects Naples to Pompeii and Sorrento.
-*   **Private Driver**: Recommended for comfort and flexibility, especially for day trips or transfers with luggage.
-
-### What to Pack
-
-*   **Comfortable Walking Shoes**: Essential for exploring towns and ruins.
-*   **Swimsuit**: For beaches and boat trips.
-*   **Light Clothing**: Breathable fabrics for warm weather.
-*   **Sun Protection**: Hat, sunglasses, sunscreen.
-*   **Adapter**: Type F or L electrical outlets.
-*   **Daypack**: For daily essentials, water, and snacks.
+**October was a good call** for weather and crowds, but it was still too hot for comfortable midday hiking.
 
 ---
 
-## Tips for Success
+## Bringing a drone?
 
-1.  **Book Accommodations and Ferries in Advance**: Especially during peak season.
-2.  **Start Your Day Early**: To avoid crowds at popular attractions.
-3.  **Stay Hydrated**: Carry water, especially during summer months.
-4.  **Embrace Public Transport**: It's efficient for coastal travel, but be prepared for crowds.
-5.  **Learn Basic Italian Phrases**: Locals appreciate the effort.
-6.  **Guard Your Belongings**: Be mindful of pickpockets in crowded tourist areas, especially in Naples.
-7.  **Savor the Food**: Italy is a culinary paradise; try local specialties wherever you go.
-
----
-
-## Alternative Itineraries
-
-### For a Shorter Trip (4-5 Days)
-
-*   Focus solely on the Amalfi Coast (Sorrento, Positano, Amalfi, Ravello, Capri).
-*   Skip the Puglia region (Bari, Matera, Alberobello, Polignano a Mare).
-
-### For a Longer Trip (10-14 Days)
-
-*   Add a few days in Rome or Florence before or after your Amalfi Coast and Puglia adventure.
-*   Explore more of Puglia, perhaps including Lecce and Ostuni.
-*   Consider a day trip to Herculaneum from Naples.
-
----
-
-## Route Highlights
-
-### **Scenic Views & Coastal Towns**
-
-*   **Positano**: Iconic cascading houses, picturesque beaches.
-*   **Path of the Gods**: Breathtaking hiking trail with panoramic vistas.
-*   **Capri**: Glamorous island, Blue Grotto, Faraglioni rocks.
-*   **Polignano a Mare**: Clifftop town with dramatic views and cove beaches.
-
-### **Historical & Cultural Gems**
-
-*   **Pompeii**: Ancient Roman city preserved by volcanic ash.
-*   **Matera**: Ancient cave dwellings (Sassi), UNESCO World Heritage site.
-*   **Alberobello**: Unique trulli houses, UNESCO World Heritage site.
-*   **Naples**: Historic center, archaeological museum, authentic Italian atmosphere.
-
-### **Culinary Experiences**
-
-*   **Neapolitan Pizza**: The birthplace of pizza, a must-try!
-*   **Fresh Seafood**: Abundant along the Amalfi Coast and in Puglia.
-*   **Limoncello**: Famous lemon liqueur from the Amalfi Coast.
-*   **Puglian Specialties**: Orecchiette pasta, burrata, focaccia barese.
-
----
-
-The Amalfi Coast and its surrounding regions offer an incredible blend of natural beauty, rich history, and vibrant culture. This 7-day itinerary provides a detailed guide to experiencing the best of southern Italy, from the iconic cliffside towns of the Amalfi Coast to the ancient wonders of Pompeii and the unique charm of Puglia. Prepare for an unforgettable journey filled with stunning landscapes, delicious food, and memorable experiences.
-
+Capri and parts of the coast between Amalfi and Positano are flyable, but the towns themselves are not. I've written up [where you can legally fly a drone in Italy](/blog/italy/flying-a-drone-in-italy), including what worked for me on the Path of the Gods.

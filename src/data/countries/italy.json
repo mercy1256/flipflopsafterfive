@@ -7,7 +7,9 @@
   "timeZone": "CET (UTC+1)",
   "visaRequirements": "Schengen Visa required for most non-EU citizens",
   "currency": "Euro (€)",
-  "languages": ["Italian"],
+  "languages": [
+    "Italian"
+  ],
   "bestExperience": "Best experience: I've never been a museum person, but the Uffizi Gallery changed that completely.",
   "about": {
     "description": "Italy is a country in Southern Europe known for its rich history, art, culture, and cuisine. From the ancient ruins of Rome to the Renaissance art of Florence and the romantic canals of Venice, Italy offers a diverse range of experiences.",
@@ -17,43 +19,6 @@
       "World-renowned cuisine and wine regions"
     ]
   },
-  "attractions": [
-    {
-      "name": "Colosseum",
-      "location": "Rome",
-      "description": "The largest ancient amphitheater ever built, dating back to 70-80 AD.",
-      "image": "/images/italy/articles/colosseum.jpg"
-    },
-    {
-      "name": "Venice Canals",
-      "location": "Venice",
-      "description": "A network of canals that form the main transportation routes in this unique city.",
-      "image": "/images/italy/venice-canals.jpg"
-    },
-    {
-      "name": "Leaning Tower of Pisa",
-      "location": "Pisa",
-      "description": "A famous bell tower known for its unintended tilt.",
-      "image": "/images/italy/pisa-tower.jpg"
-    }
-  ],
-  "cuisine": [
-    {
-      "name": "Pizza Margherita",
-      "description": "Traditional Neapolitan pizza with tomato, mozzarella, and basil.",
-      "image": "/images/italy/pizza.jpg"
-    },
-    {
-      "name": "Pasta Carbonara",
-      "description": "Classic Roman pasta dish with eggs, cheese, pancetta, and black pepper.",
-      "image": "/images/italy/carbonara.jpg"
-    },
-    {
-      "name": "Gelato",
-      "description": "Italian-style ice cream known for its rich flavor and smooth texture.",
-      "image": "/images/italy/gelato.jpg"
-    }
-  ],
   "travelTips": {
     "bestTimeToVisit": "April-June and September-October",
     "transportation": [
@@ -67,30 +32,5 @@
       "Tipping is not mandatory but appreciated"
     ]
   },
-  "articles": [
-    {
-      "title": "A Complete Guide to Rome",
-      "slug": "rome-complete-guide",
-      "description": "Everything you need to know about visiting the Eternal City.",
-      "image": "/images/italy/rome-guide.jpg",
-      "date": "2024-03-20",
-      "readTime": "10 min read"
-    },
-    {
-      "title": "Tuscany Wine Tour",
-      "slug": "tuscany-wine-tour",
-      "description": "Discover the best wineries and vineyards in Tuscany.",
-      "image": "/images/italy/tuscany-wine.jpg",
-      "date": "2024-03-18",
-      "readTime": "8 min read"
-    },
-    {
-      "title": "7 days Amalfi Coast Itinerary",
-      "slug": "7-days-amalfi-coast-itinerary",
-      "description": "A detailed 7-day itinerary for exploring the stunning Amalfi Coast in Italy.",
-      "image": "/images/italy/articles/7-days-amalfi-coast-itinerary.jpg",
-      "date": "2023-10-26",
-      "readTime": "12 min read"
-    }
-  ]
-} 
+  "articles": []
+}

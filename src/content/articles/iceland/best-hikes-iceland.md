@@ -1,12 +1,14 @@
 ---
-title: "Best Hikes in Iceland "
+title: "Best Hikes in Iceland: 5 Trails You Can't Miss"
+description: "Five unforgettable Iceland hikes — Þakgil, Glymur, Gjáin, Fjaðrárgljúfur, and Mulagljufur — with real time estimates, trail difficulty, and tips from hiking each one."
 date: "2024-03-15"
-readTime: "8 min read"
+readTime: "6 min read"
 author: "Urvish Shah"
 image: "/images/iceland/articles/hiking-iceland.jpg"
+tags: ["Iceland", "Hiking", "Trails", "Outdoors"]
 ---
 
-In this article I would like to add my favourite hikes in Iceland along with some tips about how to best visit them.
+In this article I would like to add my favourite hikes in Iceland along with some tips about how to best visit them. If you're mapping these onto a full trip, most of these hikes fit naturally into my [12-day Ring Road itinerary](/blog/iceland/iceland-ring-road-guide).
 
 ---
 
@@ -18,7 +20,7 @@ Although the road isn't classified as an F road, it can still be quite difficult
 
 If you're pressed for time like I was, you can ask at the campground reception about a shorter trail. They suggested a one-hour route that covers the best viewpoints. After completing it, I'd estimate it takes most hikers around two hours, but we spent five hours in total. The views from the top are so spectacular that one viewpoint feels like you're on a different planet.
 
-**In conclusion**, if you're near Vik, don't miss this valley—it's truly a must-see.
+**In conclusion**, if you're near Vik, don't miss this valley—it's truly a must-see. It's also one of my favorite [drone spots in Iceland](/blog/iceland/best-places-to-fly-drone), if you're carrying one.
 
 ![Þakgil valley with dramatic mountain views](/images/iceland/articles/thakgil-valley.jpg)
 
@@ -32,7 +34,7 @@ In summer, a hiking trail lets you cross the river using a log and ascend the op
 
 At the top, you can explore behind the waterfall and cross the river. You may also descend along the other side or follow a marked trail leading back to the parking area. We chose this trail due to time constraints.
 
-**Tip**: Set aside at least eight hours to fully enjoy Glymur Waterfall. We spent seven hours and wished we had more time. Be sure to hike to the top; the views and experience are unforgettable.
+**Tip**: Set aside at least eight hours to fully enjoy Glymur Waterfall. We spent seven hours and wished we had more time. Be sure to hike to the top; the views and experience are unforgettable. The viewpoints along the trail also make for some of the best [drone shots in Iceland](/blog/iceland/best-places-to-fly-drone). Glymur sits close to Reykjavik, so it slots in well on [Day 2 of the Ring Road](/blog/iceland/iceland-ring-road-guide).
 
 ![Glymur Waterfall from the top viewpoint](/images/iceland/articles/glymur-waterfall.jpg)
 
@@ -58,7 +60,7 @@ The experience was one-of-a-kind, as we explored the valley from below, an unusu
 
 Fjaðrárgljúfur Canyon is a stunning spot located between Vik and Höfn. It's easily accessible, and while the hike is more of a leisurely walk, the views are absolutely breathtaking. You'll need about two hours to explore the canyon, as walking from one end to the other takes around 50 minutes. Though the walk is straightforward, the scenery is incredible.
 
-Be sure to walk all the way to the end, where you'll find a waterfall that's only visible from that point. There are parking lots at both ends of the canyon, and with only one path, the trail is easy to follow. If you're in the area, this is a must-visit short hike—the views you get for such little effort are truly amazing.
+Be sure to walk all the way to the end, where you'll find a waterfall that's only visible from that point. There are parking lots at both ends of the canyon, and with only one path, the trail is easy to follow. If you're in the area, this is a must-visit short hike—the views you get for such little effort are truly amazing. It's also one of the only places in Iceland with a [clearly signed permission to fly drones](/blog/iceland/best-places-to-fly-drone).
 
 ![Fjaðrárgljúfur Canyon aerial view](/images/iceland/articles/fjadrargljufur-canyon.jpg)
 

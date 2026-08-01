@@ -23,6 +23,11 @@ import vietnamData from '@/data/countries/vietnam.json'
 import belgiumData from '@/data/countries/belgium.json'
 import netherlandsData from '@/data/countries/netherlands.json'
 import switzerlandData from '@/data/countries/switzerland.json'
+import denmarkData from '@/data/countries/denmark.json'
+import germanyData from '@/data/countries/germany.json'
+import hungaryData from '@/data/countries/hungary.json'
+import czechRepublicData from '@/data/countries/czech-republic.json'
+import unitedKingdomData from '@/data/countries/united-kingdom.json'
 // Add more country imports as needed
 
 const countryDataMap: Record<string, Country> = {
@@ -43,6 +48,11 @@ const countryDataMap: Record<string, Country> = {
   'switzerland': switzerlandData,
   'portugal': portugalData,
   'france': franceData,
+  'denmark': denmarkData,
+  'germany': germanyData,
+  'hungary': hungaryData,
+  'czech-republic': czechRepublicData,
+  'united-kingdom': unitedKingdomData,
   // Add more country mappings as needed
 }
 
@@ -62,36 +72,76 @@ export async function generateStaticParams() {
 // prevents request-time fs reads from arbitrary/unsanitized route segments.
 export const dynamicParams = false
 
-async function getArticles(country: string) {
-  const articlesDirectory = path.join(process.cwd(), 'src/content/articles', country)
-  
-  try {
-    const files = fs.readdirSync(articlesDirectory)
-    const articles = files
-      .filter(file => file.endsWith('.md'))
-      .map(file => {
-        const filePath = path.join(articlesDirectory, file)
-        const fileContent = fs.readFileSync(filePath, 'utf8')
-        const { data } = matter(fileContent)
-        const slug = file.replace('.md', '')
-        
-        return {
-          title: data.title,
-          slug: slug,
-          description: data.description || '',
-          image: data.image,
-          date: data.date,
-          readTime: data.readTime,
-          author: data.author
-        }
-      })
-      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+type ArticleCard = {
+  title: string
+  href: string
+  description: string
+  image: string
+  date: string
+  readTime: string
+  author: string
+}
 
-    return articles
+function toCard(filePath: string, href: string): ArticleCard {
+  const { data } = matter(fs.readFileSync(filePath, 'utf8'))
+  return {
+    title: data.title,
+    href,
+    description: data.description || '',
+    image: data.image,
+    date: data.date,
+    readTime: data.readTime,
+    author: data.author,
+  }
+}
+
+// Articles filed directly under src/content/articles/<country>/
+function getCountryArticles(country: string): ArticleCard[] {
+  const dir = path.join(process.cwd(), 'src/content/articles', country)
+
+  try {
+    return fs.readdirSync(dir)
+      .filter(file => file.endsWith('.md'))
+      .map(file => toCard(path.join(dir, file), `/blog/${country}/${file.replace('.md', '')}`))
   } catch (error) {
-    console.error(`Error reading articles for ${country}:`, error)
+    // No dedicated folder yet — the country may be covered only by experiences.
     return []
   }
+}
+
+// Articles that live under src/content/articles/experiences/<type>/ but belong to
+// a country. They stay where they are — the experiences hub groups them by activity
+// — and declare their country via a `country:` frontmatter field, so they can be
+// listed on the country page too without moving the file or changing its URL.
+const EXPERIENCE_TYPES = ['cities', 'hiking', 'road-trips']
+
+function getExperienceArticles(country: string): ArticleCard[] {
+  const cards: ArticleCard[] = []
+
+  for (const type of EXPERIENCE_TYPES) {
+    const dir = path.join(process.cwd(), 'src/content/articles/experiences', type)
+    let files: string[]
+    try {
+      files = fs.readdirSync(dir)
+    } catch (error) {
+      continue
+    }
+
+    for (const file of files) {
+      if (!file.endsWith('.md')) continue
+      const filePath = path.join(dir, file)
+      const { data } = matter(fs.readFileSync(filePath, 'utf8'))
+      if (data.country !== country) continue
+      cards.push(toCard(filePath, `/blog/experiences/${type}/${file.replace('.md', '')}`))
+    }
+  }
+
+  return cards
+}
+
+async function getArticles(country: string): Promise<ArticleCard[]> {
+  return [...getCountryArticles(country), ...getExperienceArticles(country)]
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 }
 
 export default async function DestinationPage({ params }: { params: { region: string; country: string } }) {
@@ -127,6 +177,15 @@ export default async function DestinationPage({ params }: { params: { region: st
           <div className="prose prose-invert max-w-none">
             <h2>About {country}</h2>
             <p>{countryData.about.description}</p>
+
+            {/* Urvish's own pick for the country. Every country JSON carries one and
+                until now only the map tooltip used it — it never appeared on the page. */}
+            {countryData.bestExperience && (
+              <blockquote className="not-prose border-l-4 border-accent bg-gray-800/40 rounded-r-lg px-5 py-4 my-6">
+                <p className="text-lg leading-relaxed italic">{countryData.bestExperience}</p>
+              </blockquote>
+            )}
+
             <ul>
               {countryData.about.highlights.map((highlight, index) => (
                 <li key={index}>{highlight}</li>
@@ -146,7 +205,7 @@ export default async function DestinationPage({ params }: { params: { region: st
             <h2 className="text-2xl font-bold mb-6">Latest Articles</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {articles.map((article, index) => (
-                <Link href={`/blog/${params.country}/${article.slug}`} key={index} className="group">
+                <Link href={article.href} key={index} className="group">
                   <div className="relative h-48 rounded-lg overflow-hidden mb-4">
                     <Image
                       src={article.image}

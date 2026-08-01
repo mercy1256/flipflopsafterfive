@@ -1,99 +1,96 @@
 ---
-title: "4 Days in London: An Unforgettable Itinerary"
-description: "Discover London's iconic landmarks, rich history, and vibrant culture with this comprehensive 4-day itinerary."
-category: "experiences"
-subcategory: "city-breaks"
-featured: false
-published: true
+title: "4 Days in London: Saturday to Wednesday, and What I'd Reorder"
+description: "A four-day London itinerary done Saturday to Wednesday — Westminster and the South Bank, the Warner Bros Harry Potter tour, the big museums, and an honest warning about the day I spent crossing the whole city."
 date: "2024-11-14"
+readTime: "5 min read"
 author: "Urvish Shah"
-tags: ["london", "uk", "city-break", "palace", "museum", "harry-potter"]
 image: "/images/experiences/cities/london-4-day-itinerary.jpg"
+country: "united-kingdom"
+tags: ["London", "UK", "City Break", "Palace", "Museum", "Harry Potter"]
 ---
 
-# 4 Days in London: An Unforgettable Itinerary
+I flew in on a **Saturday and left on the Wednesday morning**, which gave four full days. That's a good length for London — enough for the landmarks, the Harry Potter tour and the museums without sprinting.
 
-## Introduction
+One honest warning before the itinerary: **day four had me crossing the entire city**, and I'd reorder it if I did this again. More on that below.
 
-London, a city steeped in history and brimming with modernity, offers an unparalleled travel experience. From its royal heritage and world-class museums to its bustling markets and theatrical brilliance, this 4-day itinerary will guide you through the very best of the British capital.
+---
 
-## Day 1: Iconic Landmarks & Royal Grandeur
+## Day 1 (Saturday): Westminster and the river
 
-### Morning
-- **Big Ben & Houses of Parliament**: Start your London adventure with a visit to these iconic symbols of British democracy.
+**Big Ben and the Houses of Parliament.** The obvious place to start, and still the shot everyone wants.
+
 ![Big Ben](/images/experiences/cities/big-ben.jpg)
 
-- **Westminster Abbey**: Explore the historic coronation church of British monarchs.
+**Westminster Abbey**, the coronation church, is right there — so this corner gives you two of London's biggest sights within a few minutes' walk.
+
 ![Westminster Abbey](/images/experiences/cities/westminster-abbey.jpg)
 
-### Afternoon
-- **Buckingham Palace**: Witness the Changing of the Guard (check schedule in advance) and admire the Queen's official residence.
-- **London Eye**: Enjoy panoramic views of the city from this famous Ferris wheel.
+**Buckingham Palace** in the afternoon. **Check the Changing of the Guard schedule before you go** — it doesn't run every day, and turning up on the wrong one is a wasted trip across St James's Park.
 
-### Evening
-- **Millennium Bridge**: Stroll across this pedestrian bridge for stunning views of St. Paul's Cathedral and the Thames.
+**The London Eye** for the view over the whole city.
 
-## Day 2: Magic & History
+**The Millennium Bridge** in the evening, for St Paul's on one side and the Thames running away in both directions.
 
-### Morning
-- **Warner Bros. Studio Tour London – The Making of Harry Potter**: Immerse yourself in the magical world of Harry Potter (book tickets well in advance).
-![Warner Bros. Studio Tour London](/images/experiences/cities/warner-bros-studio-tour-london.jpg)
-
-### Afternoon
-- **Tower of London**: Discover centuries of royal history, including the Crown Jewels and the Yeoman Warders.
-
-## Day 3: Culture & Knowledge
-
-### Morning
-- **Natural History Museum**: Explore the wonders of the natural world, from dinosaurs to diverse ecosystems.
-![Natural History Museum](/images/experiences/cities/natural-history-museum.jpg)
-### Afternoon
-- **British Museum**: Delve into human history, art, and culture with a vast collection of world artifacts.
-![British Museum](/images/experiences/cities/british-museum.jpg)
-## Day 4: Eclectic London
-
-### Morning
-- **Prime Meridian at Greenwich**: Stand on the Prime Meridian, explore the Royal Observatory, and enjoy views of the city.
-- **Camden Market**: Experience the vibrant and eclectic atmosphere of one of London's most famous markets, offering food, fashion, and unique goods.
-
-### Afternoon
-- **Sherlock Holmes Museum**: Visit the famous detective's fictional address at 221B Baker Street.  
-![Sherlock Holmes Museum](/images/experiences/cities/sherlock-holmes-museum.jpg)
-- **Wembley Stadium Tour**: Take a tour of England's national football stadium (check tour availability).
-![Wembley Stadium Tour](/images/experiences/cities/wembley-stadium-tour.jpg)
-### Evening
-- **Oxford Street & Regent Street**: Indulge in some retail therapy along these renowned shopping streets.
-![Oxford Street ](/images/experiences/cities/oxford-street.jpg)
-- **Trafalgar Square**: Conclude your trip at this iconic public square, home to Nelson's Column and the National Gallery.
-
-## Practical Information
-
-### Getting There
-- **By Air**: London is served by several major airports, including Heathrow (LHR), Gatwick (LGW), Stansted (STN), and Luton (LTN), with excellent connections to the city center via train or Underground.
-- **By Train**: Eurostar connects London St Pancras International to major European cities like Paris and Brussels. National Rail services connect to cities across the UK.
-
-### Where to Stay
-- **Covent Garden/West End**: For theater, nightlife, and central attractions.
-- **South Bank**: Great for cultural attractions and river views.
-- **Kensington/Chelsea**: Upscale neighborhoods with museums and parks.
-- **Shoreditch/Hoxton**: Trendy areas with vibrant nightlife and street art.
-
-### Best Time to Visit
-- **Spring (April-May)**: Pleasant weather, blooming parks, and fewer crowds than summer.
-- **Summer (June-August)**: Warmest months, vibrant atmosphere, but also the busiest and most expensive.
-- **Autumn (September-October)**: Mild weather, beautiful autumnal colors, and good for exploring museums.
-- **Winter (November-March)**: Festive season with Christmas markets, but colder temperatures.
-
-## Tips for Your Visit
-
-1. **Oyster Card/Contactless Payment**: Use an Oyster card or contactless debit/credit card for easy travel on London's public transport.
-2. **Walking**: London is a great city to explore on foot, especially around central areas.
-3. **Pre-book Attractions**: For popular attractions like Harry Potter Studios, Tower of London, and London Eye, book tickets in advance to avoid long queues.
-4. **Food Markets**: Explore London's diverse food markets like Borough Market or Camden Market for a culinary adventure.
-5. **Free Museums**: Many of London's world-class museums offer free entry, including the British Museum and Natural History Museum.
-
-## Conclusion
-
-This 4-day London itinerary provides a comprehensive journey through one of the world's most captivating cities. From historical landmarks to modern marvels, London promises an unforgettable experience for every traveler.
+Everything on this day is walkable from everything else, which is exactly what you want on arrival day.
 
 ---
+
+## Day 2 (Sunday): Harry Potter and the Tower
+
+**The Warner Bros Studio Tour — The Making of Harry Potter.** I did this on the Sunday and it's the single thing on this list I'd book furthest ahead; it sells out weeks in advance.
+
+![Warner Bros. Studio Tour London](/images/experiences/cities/warner-bros-studio-tour-london.jpg)
+
+**Be realistic about what this day costs you.** The studios are out at Watford, not in London — it's a train plus a shuttle bus each way, and you'll want three to four hours inside. This is most of a day.
+
+**The Tower of London** in the afternoon, for the Crown Jewels and the Yeoman Warders. I did both in the day, but it's tight — if you'd rather not rush, this is the thing to move.
+
+---
+
+## Day 3 (Monday): the museums
+
+**The Natural History Museum** in the morning — dinosaurs, the building itself, and one of the best free days out in the city.
+
+![Natural History Museum](/images/experiences/cities/natural-history-museum.jpg)
+
+**The British Museum** in the afternoon.
+
+![British Museum](/images/experiences/cities/british-museum.jpg)
+
+**Both are free**, which is worth saying plainly because people assume otherwise and budget for tickets they don't need. This is the lightest day of the four, and after the Watford trip that's welcome.
+
+---
+
+## Day 4 (Tuesday): the day I'd reorder
+
+This is where I'd change things. **I ended up crossing the whole city in a single day** — Greenwich in the southeast, Camden in the north, Baker Street in the middle, and Wembley out to the northwest.
+
+Here's what I did:
+
+**The Prime Meridian at Greenwich**, with the Royal Observatory and the view back over Canary Wharf.
+
+**Camden Market** — food, records, and the most distinctive market atmosphere in London.
+
+**The Sherlock Holmes Museum** at 221B Baker Street.
+
+![Sherlock Holmes Museum](/images/experiences/cities/sherlock-holmes-museum.jpg)
+
+**The Wembley Stadium tour**, out at the national stadium.
+
+![Wembley Stadium Tour](/images/experiences/cities/wembley-stadium-tour.jpg)
+
+**Oxford Street and Regent Street** in the evening, finishing at **Trafalgar Square** with Nelson's Column and the National Gallery.
+
+![Oxford Street](/images/experiences/cities/oxford-street.jpg)
+
+**What I'd do differently:** these are four corners of London, and the Underground time between them adds up fast. **Greenwich deserves its own half-day** rather than being squeezed in before a dash north. If you're following this itinerary, pair Greenwich with the South Bank on day one, and keep Baker Street, Camden and Oxford Street together — they're all on or near the same north–central axis. Wembley only makes sense if a stadium tour genuinely matters to you.
+
+---
+
+## Worth knowing
+
+- **Just tap in with a contactless card.** You don't need an Oyster card any more, and contactless is capped daily the same way.
+- **The big museums are free** — the British Museum and the Natural History Museum both.
+- **Book the Warner Bros tour weeks ahead.** Everything else on this list you can sort closer to the day.
+- **Check the Changing of the Guard schedule.** It isn't daily.
+- **Don't do Greenwich and Wembley on the same day.** That's the mistake in my own itinerary above.

@@ -177,6 +177,86 @@ export default function PlacesPage() {
                 </div>
               </div>
             </Link>
+            <Link href="/places/europe/denmark" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/denmark/main.jpg"
+                  alt="Denmark"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Denmark</h3>
+                    <p className="text-white/80">Copenhagen by bike, boat and bridge</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/germany" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/experiences/hiking/konigsee-hiking.jpg"
+                  alt="Germany"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Germany</h3>
+                    <p className="text-white/80">Alpine hikes, gorges and Christmas markets</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/czech-republic" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/experiences/cities/astronomical-clock.jpg"
+                  alt="Czech Republic"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Czech Republic</h3>
+                    <p className="text-white/80">Prague on foot, in a single day</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/hungary" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/experiences/cities/hungarian-parliament-building.jpg"
+                  alt="Hungary"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">Hungary</h3>
+                    <p className="text-white/80">Budapest, the Danube and the baths</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
+            <Link href="/places/europe/united-kingdom" className="group">
+              <div className="relative h-64 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/experiences/cities/big-ben.jpg"
+                  alt="United Kingdom"
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+                  <div className="absolute bottom-0 p-4">
+                    <h3 className="text-xl font-bold text-white">United Kingdom</h3>
+                    <p className="text-white/80">Four days across London</p>
+                  </div>
+                </div>
+              </div>
+            </Link>
             <Link href="/places/europe/slovenia" className="group">
               <div className="relative h-64 rounded-lg overflow-hidden">
                 <Image

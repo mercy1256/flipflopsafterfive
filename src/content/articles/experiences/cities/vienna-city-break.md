@@ -1,87 +1,65 @@
 ---
-title: "48 Hours in Vienna: A Perfect City Break"
-description: "Experience the best of Vienna in just two days - from imperial palaces to vibrant coffee houses and world-class museums."
-category: "experiences"
-subcategory: "city-breaks"
-featured: false
-published: true
+title: "2 Days in Vienna: Schönbrunn Is the One to Prioritise"
+description: "A short two-day Vienna itinerary — Schönbrunn Palace and the Gloriette, the Hofburg and St Stephen's, Klimt at the Belvedere, and the coffee houses."
 date: "2024-01-15"
-author: "Travel Blog"
-tags: ["vienna", "austria", "city-break", "palace", "museum", "coffee-house"]
+readTime: "3 min read"
+author: "Urvish Shah"
 image: "/images/experiences/cities/vienna-city-break.jpg"
+country: "austria"
+tags: ["Vienna", "Austria", "City Break", "Palace", "Museum", "Coffee House"]
 ---
 
-# 48 Hours in Vienna: A Perfect City Break
+I had two days in Vienna, which isn't long for a city this size. So rather than pretend otherwise, here's the honest version: what I did, and the one thing I'd tell anyone to make room for.
 
-## Introduction
+**That one thing is Schönbrunn Palace.** If your time in Vienna is short, put it first. I'd recommend it to anyone.
 
-Vienna, Austria's grand capital, is a city of imperial history, artistic masterpieces, and vibrant street life. From the opulent Schönbrunn Palace to the cozy coffee houses and the world-renowned museums, Vienna offers a perfect blend of culture, history, and modern charm for a memorable city break.
+---
 
-## Day 1: Imperial Vienna
+## Day 1: Schönbrunn and the imperial centre
 
-### Morning
-- **Schönbrunn Palace**: Start your day exploring the former imperial summer residence and its beautiful gardens
+### Schönbrunn Palace
+
+The former imperial summer residence, and the highlight of my two days. The palace itself is the draw, but **don't treat the gardens as an afterthought** — they're vast, they're free to walk, and they're a large part of what makes the place.
+
 ![Schönbrunn Palace](/images/experiences/cities/schonbrunn.jpg)
-- **Gloriette**: Climb up for panoramic views of Vienna
+
+**Walk up to the Gloriette.** It's the colonnade on the hill behind the palace, and the climb gives you the whole of Schönbrunn laid out below with the city behind it. This is the view worth the legs.
+
 ![Gloriette](/images/experiences/cities/gloriette.jpg)
 
-### Afternoon
-- **Hofburg Palace**: Visit the imperial apartments and the Sisi Museum
+### The city centre
 
-- **Spanish Riding School**: Catch a performance or morning exercise of the famous Lipizzaner horses
+**The Hofburg** — the winter palace — holds the imperial apartments and the Sisi Museum.
 
-- **St. Stephen's Cathedral**: Marvel at the Gothic architecture and climb the tower for city views
+**The Spanish Riding School** is next door. Note that there are two different things you can see: a full performance, or the morning exercise, which is cheaper and earlier. Check which is running before you plan your day around it.
 
-### Evening
-- **Graben & Kohlmarkt**: Stroll through Vienna's elegant shopping streets
-- **Dinner in the Innere Stadt**: Enjoy classic Viennese cuisine at a traditional restaurant
+**St Stephen's Cathedral** anchors the middle of the city, and you can climb the tower.
 
-## Day 2: Art, Music & Coffee Culture
-
-### Morning
-- **Belvedere Palace**: Admire Klimt's "The Kiss" and other masterpieces
-![Belvedere Palace](/images/experiences/cities/belvedere.jpg)
-- **Naschmarkt**: Explore Vienna's famous food market for breakfast or snacks
-
-### Afternoon
-- **Kunsthistorisches Museum**: Discover one of the world's greatest art collections
-- **MuseumQuartier**: Visit contemporary art museums or relax in the courtyards
-- **Coffee House**: Experience Vienna's coffee culture at Café Central or Café Sacher
-
-### Evening
-- **Classical Concert**: Attend a performance at the Vienna State Opera or Musikverein
-- **Farewell Dinner**: Savor your last evening with a slice of Sachertorte
-
-## Practical Information
-
-### Getting There
-- **By Air**: Vienna International Airport (VIE) with connections from major cities worldwide
-- **By Train**: Direct trains from across Europe, including Budapest, Prague, and Munich
-- **By Car**: Well-connected via the A1, A2, and A4 highways
-
-### Where to Stay
-- **Innere Stadt (1st District)**: For the most central and historic experience
-- **Leopoldstadt (2nd District)**: Trendy area close to the Prater
-- **Neubau (7th District)**: Hip neighborhood near MuseumQuartier
-
-### Best Time to Visit
-- **Spring (April-May)**: Pleasant weather and blooming gardens
-- **Summer (June-August)**: Festival season and outdoor events
-- **Autumn (September-October)**: Mild weather and fewer tourists
-- **Winter (December)**: Magical Christmas markets and festive lights
-
-## Tips for Your Visit
-
-1. **Vienna Pass**: Consider purchasing for free entry to many attractions and public transport
-2. **Walking & Trams**: The city center is walkable, and trams are a scenic way to get around
-3. **Coffee Etiquette**: Take your time and enjoy the coffee house atmosphere
-4. **Language**: German is the official language, but English is widely spoken
-5. **Currency**: Euro (EUR)
-
-## Conclusion
-
-Vienna is a city where imperial grandeur meets contemporary creativity. In just 48 hours, you can experience its palaces, museums, music, and legendary coffee culture. Whether you're a history lover, art enthusiast, or foodie, Vienna promises an unforgettable city break.
+Finish along **Graben and Kohlmarkt**, the grand shopping streets running off the cathedral square, and eat somewhere in the Innere Stadt.
 
 ---
 
-*Ready to explore more city breaks? Check out our guides to [Salzburg](/experiences/cities/salzburg-city-break), [Prague](/experiences/cities/prague-city-break), [Barcelona](/experiences/cities/barcelona-city-break), and [Amsterdam](/experiences/cities/amsterdam-city-break).* 
+## Day 2: Art and coffee
+
+**The Belvedere** is where Klimt's *The Kiss* hangs, and it's the reason most people come.
+
+![Belvedere Palace](/images/experiences/cities/belvedere.jpg)
+
+**The Naschmarkt** is the city's big food market, and a good breakfast stop.
+
+**The Kunsthistorisches Museum** and the **MuseumQuartier** sit close together, so you can do one properly or graze across both depending on your appetite for galleries.
+
+**Then a coffee house, and take your time over it.** Café Central and Café Sacher are the famous two. The thing to understand about Viennese coffee houses is that lingering is the point — nobody will move you along, and rushing one defeats the exercise.
+
+---
+
+## Worth knowing
+
+- **Schönbrunn is the priority** if you only get one big thing. The palace and the Gloriette together are half a day well spent.
+- **Two days is tight.** I wouldn't try to add much more than the above to it.
+- **Check the Spanish Riding School schedule** — performance and morning exercise are different events at different prices.
+- **The centre is walkable and the trams are good** for everything beyond it.
+
+---
+
+*Ready to explore more? Check out my [4-day Austria road trip](/blog/austria/4-day-austria-roadtrip-itinerary) covering Salzburg and Hallstatt, my [Prague city break](/blog/experiences/cities/prague-city-break), [2 days in Belgium](/blog/belgium/2-days-in-belgium), and [3 days in the Netherlands](/blog/netherlands/3-days-in-netherlands).*

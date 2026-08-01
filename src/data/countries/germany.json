@@ -1,0 +1,35 @@
+{
+  "name": "Germany",
+  "region": "Europe",
+  "capital": "Berlin",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Euro",
+  "languages": ["German", "English widely spoken in cities"],
+  "bestExperience": "Best experience: Garmisch-Partenkirchen — the Partnachklamm gorge and the hike around it.",
+  "about": {
+    "description": "Germany rewards short trips more than long itineraries. The Bavarian Alps in the south, the sandstone towers of Saxon Switzerland in the east, and the Black Forest in the west are three completely different landscapes, and each is a comfortable long weekend rather than a two-week route. Everything below came from exactly that — single hikes and two-day road trips rather than one grand tour.",
+    "highlights": [
+      "Königssee and the Berchtesgaden Alps",
+      "The hike behind Neuschwanstein — better than the castle itself",
+      "The Partnachklamm gorge at Garmisch-Partenkirchen",
+      "The Bastei Bridge in Saxon Switzerland",
+      "Black Forest Christmas markets"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "June to September for hiking; late November and December for the Christmas markets",
+    "transportation": [
+      "Excellent long-distance and regional rail network",
+      "A car is worth it for the Alps, the Black Forest and Saxon Switzerland",
+      "Flixbus is the cheapest way between cities and into neighbouring countries"
+    ],
+    "culturalNotes": [
+      "Sunday closing is real — most shops shut all day",
+      "Cash is still expected in smaller places; don't assume card",
+      "Tap water is safe, but restaurants will default to selling you bottled",
+      "Trails are well signed and colour-coded, and signage is trusted"
+    ]
+  },
+  "articles": []
+}

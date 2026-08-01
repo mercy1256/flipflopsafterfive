@@ -7,8 +7,14 @@ type Country = {
   slug: string
   name: string
   image: string
+  href: string
   snippet?: string
 }
+
+// Keep in step with ASIA_COUNTRIES in app/places/[region]/[country]/page.tsx.
+const ASIA_COUNTRIES = new Set(['thailand', 'vietnam'])
+const countryHref = (slug: string) =>
+  `/places/${ASIA_COUNTRIES.has(slug) ? 'asia' : 'europe'}/${slug}`
 
 export default function ExperienceMap() {
   const countriesDir = path.join(process.cwd(), 'src/data/countries')
@@ -26,9 +32,9 @@ export default function ExperienceMap() {
       const data = JSON.parse(raw)
       const image = (imageManifest as Record<string, { heroImage: string; tileImage: string }>)[slug]?.tileImage || '/images/placeholder.svg'
       const snippet = data.bestExperience || data.about?.description || data.articles?.[0]?.description || data.attractions?.[0]?.description || ''
-      return { slug, name: data.name || slug, image, snippet }
+      return { slug, name: data.name || slug, image, href: countryHref(slug), snippet }
     } catch (err) {
-      return { slug, name: slug, image: '/images/placeholder.svg', snippet: '' }
+      return { slug, name: slug, image: '/images/placeholder.svg', href: countryHref(slug), snippet: '' }
     }
   })
 

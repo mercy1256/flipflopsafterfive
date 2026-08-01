@@ -18,7 +18,7 @@ function getExperiences(dir: string, urlPrefix: string) {
     return {
       title: data.title || slug,
       image: data.image || '/images/placeholder.svg',
-      link: `/experiences/${urlPrefix}/${slug}`,
+      link: `/blog/experiences/${urlPrefix}/${slug}`,
       description: data.description || '',
     }
   })

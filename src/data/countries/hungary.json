@@ -1,0 +1,34 @@
+{
+  "name": "Hungary",
+  "region": "Europe",
+  "capital": "Budapest",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Hungarian Forint (HUF) — Hungary is in the EU but not the Eurozone",
+  "languages": ["Hungarian", "English spoken in central Budapest"],
+  "bestExperience": "Best experience: the Flipper pinball museum — the best hours I've ever spent on retro games, and nowhere near anyone's Budapest shortlist.",
+  "about": {
+    "description": "Hungary, for most visitors, means Budapest — two cities either side of the Danube that merged into one. Hilly Buda holds the castle and the Fisherman's Bastion; flat Pest holds the parliament, the ruin bars and most of the thermal baths. It is one of the cheaper capitals in Europe and one of the best value.",
+    "highlights": [
+      "The Hungarian Parliament Building from across the Danube",
+      "Széchenyi and the other thermal baths",
+      "Fisherman's Bastion and the Buda castle district",
+      "An evening Danube cruise once the buildings are lit",
+      "St. Stephen's Basilica and the State Opera House"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "April to June and September to October; the baths are at their best in winter",
+    "transportation": [
+      "Budapest's metro, tram and bus network covers everything",
+      "Tram 2 along the Pest embankment is a sightseeing route in its own right",
+      "No car needed for a city break"
+    ],
+    "culturalNotes": [
+      "Hungary uses the forint, not the euro — avoid airport exchange rates",
+      "Card is accepted widely, but keep some cash for markets",
+      "Tipping around 10% is normal in restaurants"
+    ]
+  },
+  "articles": []
+}

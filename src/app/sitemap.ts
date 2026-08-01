@@ -98,16 +98,46 @@ export default function sitemap(): MetadataRoute.Sitemap {
     console.error('Error generating article sitemap:', error)
   }
 
-  // Country/region pages
-  const countryPages = [
-    'iceland', 'italy', 'france', 'spain', 'portugal', 'greece', 'croatia', 
-    'austria', 'slovenia', 'norway', 'finland', 'thailand', 'albania'
-  ].map(country => ({
-    url: `${baseUrl}/places/europe/${country}`,
+  // Country/region pages.
+  // Derived from src/data/countries/*.json rather than hand-listed, because the
+  // hand-listed version drifted: it had missed belgium/netherlands/switzerland/vietnam
+  // and filed thailand under /europe/, a URL that 404s. This must stay in step with
+  // the countryDataMap and ASIA_COUNTRIES in places/[region]/[country]/page.tsx.
+  const ASIA_COUNTRIES = new Set(['thailand', 'vietnam'])
+  let countryPages: MetadataRoute.Sitemap = []
+
+  try {
+    countryPages = fs
+      .readdirSync(path.join(process.cwd(), 'src/data/countries'))
+      .filter((file) => file.endsWith('.json'))
+      .map((file) => {
+        const country = file.replace(/\.json$/, '')
+        const region = ASIA_COUNTRIES.has(country) ? 'asia' : 'europe'
+        return {
+          url: `${baseUrl}/places/${region}/${country}`,
+          lastModified: new Date(),
+          changeFrequency: 'monthly' as const,
+          priority: 0.8,
+        }
+      })
+  } catch (error) {
+    console.error('Error generating country sitemap:', error)
+  }
+
+  // Blog collection ("playlist") pages linked from /blog
+  const collectionPages = [
+    'weekend-in-europe',
+    'city-essentials',
+    'mountain-lake-escapes',
+    'coastal-highlights',
+    'food-culture-trails',
+    'solo-traveler-guides',
+  ].map((collection) => ({
+    url: `${baseUrl}/blog/collections/${collection}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
-    priority: 0.8,
+    priority: 0.6,
   }))
 
-  return [...staticPages, ...articlePages, ...countryPages]
+  return [...staticPages, ...articlePages, ...countryPages, ...collectionPages]
 }

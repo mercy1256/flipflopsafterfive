@@ -1,165 +1,74 @@
 ---
-title: "Road to Dresden: A Scenic Journey Through Eastern Germany"
-description: "Discover the beautiful route to Dresden - from Berlin through historic towns and stunning landscapes"
-category: "experiences"
-subcategory: "road-trips"
-featured: false
-published: true
+title: "Regensburg to Dresden Road Trip: Bamberg, Spreewald and Saxon Switzerland"
+description: "A road trip from Regensburg to Dresden through eastern Germany - stopping at Bamberg on the way, then the canals of the Spreewald and the Bastei Bridge once you arrive."
 date: "2024-01-15"
-author: "Travel Blog"
-tags: ["dresden", "germany", "road-trip", "berlin", "saxony", "elbe-river"]
+readTime: "3 min read"
+author: "Urvish Shah"
 image: "/images/experiences/road-trips/road-to-dresden.jpg"
+country: "germany"
+tags: ["Dresden", "Germany", "Road Trip", "Bamberg", "Spreewald", "Saxony", "Regensburg"]
 ---
 
-# Road to Dresden: A Scenic Journey Through Eastern Germany
+This is a road trip through a part of Germany that most visitors skip entirely. We drove from **Regensburg to Dresden**, stopping at Bamberg along the way, and then used Dresden as a base for two things that turned out to be the best parts of the trip: the **Spreewald** and **Saxon Switzerland**.
 
-## Introduction
-
-The road from Berlin to Dresden is a journey through the heart of Eastern Germany, offering travelers a perfect blend of history, culture, and natural beauty. This scenic route takes you through charming towns, historic sites, and stunning landscapes, making it an ideal road trip for those wanting to explore the rich heritage of Saxony.
-
-## Route Overview
-
-**Duration**: 3-5 days
-**Distance**: Approximately 200 km (direct route) or 350 km (scenic route)
-**Best Time**: Spring to Autumn
-**Starting Point**: Berlin
-**Ending Point**: Dresden
-**Recommended Route**: Berlin → Potsdam → Wittenberg → Meissen → Dresden
-
-## Day 1: Berlin to Potsdam
-
-### Morning
-- **Berlin Departure**: Start your journey from Germany's vibrant capital
-- **Brandenburg Gate**: Take a final photo at this iconic landmark
-- **Breakfast**: Enjoy a traditional German breakfast before hitting the road
-
-### Afternoon
-- **Drive to Potsdam**: Short 30-minute drive southwest
-- **Sanssouci Palace**: Visit Frederick the Great's magnificent summer palace
-- **Potsdam Gardens**: Explore the extensive palace gardens and park
-
-### Evening
-- **Potsdam Old Town**: Walk through the historic center
-- **Dutch Quarter**: Admire the unique Dutch-style architecture
-- **Dinner**: Enjoy local cuisine in a traditional restaurant
-- **Accommodation**: Stay in Potsdam for the night
-
-## Day 2: Potsdam to Wittenberg
-
-### Morning
-- **Drive to Wittenberg**: Scenic route through Brandenburg countryside
-- **Luther House**: Visit where Martin Luther lived and worked
-- **Castle Church**: See the famous door where Luther nailed his 95 Theses
-
-### Afternoon
-- **Wittenberg Old Town**: Explore the historic center
-- **Market Square**: Visit the beautiful Renaissance town square
-- **Lunch**: Try traditional Saxon cuisine
-
-### Evening
-- **Elbe River Walk**: Stroll along the river promenade
-- **Local Beer**: Sample regional beers at a traditional brewery
-- **Accommodation**: Stay in Wittenberg
-
-## Day 3: Wittenberg to Meissen
-
-### Morning
-- **Drive to Meissen**: Continue along the Elbe River
-- **Meissen Porcelain Factory**: Visit the world-famous porcelain manufacturer
-- **Porcelain Museum**: Learn about the history of Meissen porcelain
-
-### Afternoon
-- **Meissen Cathedral**: Visit the stunning Gothic cathedral
-- **Albrechtsburg Castle**: Explore the oldest castle in Germany
-- **Old Town**: Walk through the charming medieval streets
-
-### Evening
-- **Wine Tasting**: Sample local Saxon wines
-- **River Views**: Enjoy dinner with Elbe River views
-- **Accommodation**: Stay in Meissen
-
-## Day 4: Meissen to Dresden
-
-### Morning
-- **Drive to Dresden**: Final leg of the journey
-- **Elbe Valley**: Drive through the beautiful Elbe Valley
-- **Arrival in Dresden**: Welcome to the "Florence of the Elbe"
-
-### Afternoon
-- **Dresden Old Town**: Begin exploring the historic center
-- **Frauenkirche**: Visit the iconic Church of Our Lady
-- **Zwinger Palace**: Marvel at the stunning Baroque architecture
-
-### Evening
-- **Brühl's Terrace**: Walk along the "Balcony of Europe"
-- **Welcome Dinner**: Celebrate your arrival with fine dining
-- **Accommodation**: Stay in Dresden
-
-## Practical Information
-
-### Getting There
-- **By Car**: Best option for flexibility and scenic routes
-- **By Train**: Good connections between major cities
-- **By Air**: Fly to Berlin, then rent a car
-
-### Where to Stay
-- **Historic Hotels**: Experience traditional German hospitality
-- **Boutique Hotels**: Modern comfort in historic settings
-- **Guesthouses**: Authentic local experiences
-- **Castle Hotels**: Unique accommodation in historic buildings
-
-### Best Time to Visit
-- **Spring (April-May)**: Beautiful blossoms and pleasant weather
-- **Summer (June-August)**: Warm weather and outdoor events
-- **Autumn (September-October)**: Beautiful fall colors
-- **Winter (December)**: Christmas markets and festive atmosphere
-
-## Tips for Your Road Trip
-
-1. **Route Planning**: Consider taking the scenic route for better views
-2. **Historic Sites**: Book guided tours in advance for major attractions
-3. **Local Cuisine**: Try regional specialties in each town
-4. **Photography**: Bring a good camera for stunning landscapes
-5. **Language**: German is spoken, but English is common in tourist areas
-6. **Currency**: Euro (EUR)
-
-## Must-See Highlights
-
-### Historic Sites
-- **Sanssouci Palace**: Prussian royal splendor
-- **Luther Sites**: Reformation history in Wittenberg
-- **Meissen Porcelain**: World-famous craftsmanship
-- **Dresden's Baroque**: Architectural masterpieces
-
-### Natural Attractions
-- **Elbe River**: Scenic river views throughout the journey
-- **Saxon Switzerland**: Optional detour to national park
-- **Vineyards**: Wine regions around Meissen
-- **Gardens**: Beautiful parks and gardens
-
-### Cultural Experiences
-- **Porcelain Making**: Learn about Meissen's famous craft
-- **Wine Tasting**: Sample local Saxon wines
-- **Traditional Cuisine**: Regional specialties
-- **Local Festivals**: Check for events during your visit
-
-## Alternative Routes
-
-### Scenic Detour via Saxon Switzerland
-- **Add 1-2 days** to your journey
-- **Visit Bastei Bridge**: Famous rock formations
-- **Hiking**: Explore the national park
-- **River Cruise**: Optional boat trip on the Elbe
-
-### Extended Route via Leipzig
-- **Add Leipzig**: Important cultural and historical city
-- **Bach Museum**: For music lovers
-- **Industrial Heritage**: Modern German history
-
-## Conclusion
-
-The road to Dresden is more than just a journey between two cities - it's a voyage through German history, culture, and natural beauty. From the royal splendor of Potsdam to the Reformation history of Wittenberg, from the porcelain artistry of Meissen to the Baroque magnificence of Dresden, every stop offers something unique and memorable.
+If you're picturing eastern Germany as a stretch of motorway between two cities, this is the argument against that.
 
 ---
 
-*Ready to explore more road trips? Check out our guides to [Christmas Black Forest Road Trip](/experiences/road-trips/christmas-black-forest-road-trip) and [Road Trip in South of Spain](/experiences/road-trips/south-spain-road-trip).* 
+## The route
+
+**Start:** Regensburg
+**On the way:** Bamberg
+**Base:** Dresden
+**From Dresden:** the Spreewald, and Saxon Switzerland National Park
+
+---
+
+## Stop at Bamberg
+
+**Bamberg** is the stop worth making on the drive north, and it's more than a leg-stretch.
+
+The old town survived the war essentially intact, which is unusual in Germany and immediately obvious when you're walking around it — it's a genuine medieval town centre rather than a reconstruction. The old town hall is built on an island in the middle of the river, reached by bridges on both sides, which is as odd and as good as it sounds.
+
+Bamberg is also known for **Rauchbier**, a smoked beer that tastes strongly of a bonfire and which you will either love or find undrinkable. Worth trying either way, since it's brewed here and hard to find elsewhere.
+
+---
+
+## The Spreewald
+
+**The Spreewald was amazing**, and it's the part of this trip I'd push hardest.
+
+It's a biosphere reserve north of Dresden where the river Spree splits into hundreds of small channels running through forest and farmland. Villages are connected by water as much as by road, and the traditional way to see it is on a flat-bottomed punt pushed along by a boatman — a bit like a Venetian gondola, in a German forest.
+
+It's calm, green and completely unlike anywhere else in the country. There's a whole network of waterways to explore, and the region is known for its pickled gherkins, which are sold everywhere and are genuinely good.
+
+Almost no international visitors go here, which is a large part of the appeal.
+
+![The Spreewald canals](/images/experiences/road-trips/spreewald.jpg)
+
+---
+
+## Dresden and Saxon Switzerland
+
+**Dresden** itself is the obvious base — a rebuilt baroque centre on the Elbe, with enough to fill a day comfortably.
+
+The other reason to be here is **Saxon Switzerland National Park**, an hour away, where sandstone pillars rise out of the forest along the Elbe and the **Bastei Bridge** spans the gaps between them. It's an easy day trip and one of the best hikes in eastern Germany.
+
+I've written that up separately: [the Bastei Bridge hike from Kurort Rathen](/blog/experiences/hiking/saxon-switzerland-hiking).
+
+---
+
+## Worth knowing
+
+- **Bamberg deserves a proper stop**, not twenty minutes. Half a day if you can spare it.
+- **The Spreewald needs its own day.** It's a slow place and rushing it defeats the purpose.
+- **Base yourself in Dresden** rather than moving hotels — both the Spreewald and Saxon Switzerland work as day trips from there.
+- **This region is genuinely under-visited**, which means fewer crowds but also less English than you'll find in Munich or Berlin.
+
+---
+
+## Related reading
+
+- [Saxon Switzerland: the Bastei Bridge hike](/blog/experiences/hiking/saxon-switzerland-hiking) — the day trip from Dresden
+- [Christmas road trip across the Black Forest](/blog/experiences/road-trips/christmas-black-forest-road-trip)
+- [4-day Austria road trip itinerary](/blog/austria/4-day-austria-roadtrip-itinerary)

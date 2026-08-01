@@ -1,83 +1,140 @@
 ---
-title: "3 Day Itinerary Across Southern France"
+title: "4 Days in Southern France: Monaco, Kayaking the Verdon, and the Riviera"
+description: "A 4-day southern France itinerary reached by direct bus from Munich to Nice — Monaco as a bus day trip, kayaking the Gorges du Verdon, the lavender plateau of Provence, and why Nice beats Cannes."
 date: "2024-03-15"
-readTime: "15 min read"
+readTime: "6 min read"
 author: "Urvish Shah"
 image: "/images/france/articles/4-day-southern-france-itinerary.jpg"
+tags: ["France", "Provence", "French Riviera", "Itinerary", "Monaco", "Gorges du Verdon", "Nice"]
 ---
 
-## 🗓️ Day 1: Arrive in Monaco – The Playground of the Rich & Famous
+This route covers three quite different sides of southern France in four days: the wealth of **Monaco**, the turquoise water of the **Gorges du Verdon**, and the Riviera at **Nice** and **Cannes**.
 
-**Morning:**
-- Arrive in Monaco and check into your hotel or drop off your bags.
+Two things worth knowing before you read on. **I got here on a direct bus from Munich to Nice** — no flights. And **the single best thing I did was kayaking the gorge**, which I'd recommend above everything else on this list.
+
+---
+
+## Getting there, and when you actually need a car
+
+**There's a direct bus from Munich to Nice**, and that's how I travelled. It's the cheap way in if you're already somewhere in central Europe.
+
+I used **Nice as the base for the whole trip**, and **picked the hire car up in Nice** for the middle of it:
+
+- **Day 1 — no car.** Monaco is an easy bus ride from Nice and back.
+- **Days 2 and 3 — hire car**, collected in Nice.
+- **Day 4 — no car.** A last stretch in Nice, then the bus home.
+
+**There's really only one day on this route that needs a car: the Gorges du Verdon and the lavender plateau.** They're inland, they're spread out, and public transport won't get you around them. That's the day that falls apart without one, and it's also the best day of the trip.
+
+Everything else you can do without driving. Monaco is a bus ride from Nice, and **Cannes is about 45 minutes by train along the coast.** I had the car for days 2 and 3 and used it for the Cannes run because I already had it — but if you'd rather keep costs down, hire it for the gorge day alone and take the train for the rest. Paying for a car across all four days would be money wasted on days you never leave the coast.
+
+---
+
+## Day 1: Monaco
+
+Monaco is small, extremely wealthy, and walkable in a day. **I went across by bus from Nice in the morning and came back the same night**, which is all the time it needs.
+
+**Port Hercule.** Start with a walk around the harbour and the superyachts. It sets the tone for the entire place.
+
+**The Prince's Palace**, up in Monaco-Ville, with the Changing of the Guard if your timing lines up.
+
+**The Old Town (Monaco-Ville).** Narrow streets, Saint Nicholas Cathedral, and panoramic views out over the harbour and the coast.
+
+**The Oceanographic Museum**, which is a genuinely good aquarium in a spectacular building on the cliff edge.
+
 ![Monaco](/images/france/articles/monaco.jpg)
-- Start your day with a **walk around Port Hercule** and admire the luxury yachts.
-- Visit the **Prince's Palace of Monaco** and catch the Changing of the Guard.
 
-**Afternoon:**
-- Explore the **Old Town (Monaco-Ville)** – stroll through narrow alleys, visit Saint Nicholas Cathedral, and enjoy panoramic views.
-- Stop by the **Oceanographic Museum**, a world-class aquarium with stunning architecture.
+### The casino: check the opening hours
 
-**Evening:**
-- Try your luck at the iconic **Casino de Monte-Carlo** or just marvel at the opulent building and luxury cars parked outside.
+Here's a mistake to learn from. **I went to the Casino de Monte-Carlo and couldn't get in, because it was closed** — **it only opens in the afternoon.**
+
+If going inside matters to you, plan it for the afternoon or evening rather than turning up in the morning like I did. There's also a dress code and an entry fee, so check both before you go.
+
+Even from outside it's worth standing in front of — the building and the cars parked around it are half the spectacle.
+
 ![Casino de Monte-Carlo](/images/france/articles/casino-de-monte-carlo.jpg)
-- Dine at a seaside restaurant like **Le Vistamar** or **Café de Paris Monte-Carlo** for a memorable meal.
-
-📌 *Optional:* Take a sunset walk through the **Exotic Garden of Monaco (Jardin Exotique)** for incredible cliffside views.
 
 ---
 
-## 🗓️ Day 2: Nature Escape – Gorges du Verdon & Lavender Fields of Provence
+## Day 2: Gorges du Verdon and the lavender plateau
 
-**Early Morning:**
-- Depart early for **Gorges du Verdon** (~2.5-3 hour drive from Nice).
-- Arrive at **Lac de Sainte-Croix**, the entry point to the gorge.
+The best day of the trip, and it's a long one — the gorge is roughly 2.5 to 3 hours inland from the coast. **This is the day the car is for.**
+
+### Kayak the gorge. I cannot recommend this more.
+
+**This is the thing to do in southern France.** Rent a kayak and paddle into the gorge from **Lac de Sainte-Croix** at its mouth.
+
+The water is a genuine turquoise, the limestone walls close in above you, and you're at water level looking up at several hundred metres of cliff. **I cannot recommend it more highly** — of everything in this itinerary, this is the one I'd tell you not to miss under any circumstances.
+
 ![Gorges du Verdon](/images/france/articles/gorges-du-verdon.jpg)
+![Kayaking the Gorges du Verdon](/images/france/articles/gorges-du-verdon-3.jpg)
 
-**Morning to Afternoon:**
-- Go **hiking** along the **Sentier Blanc-Martel** trail for epic canyon views or if you have a car, you can drive to the top of the gorge and down.
-![Gorges du Verdon](/images/france/articles/gorges-du-verdon-2.jpg)
-- Rent a **kayak or paddle boat** to explore the turquoise waters of the gorge.
-![Gorges du Verdon](/images/france/articles/gorges-du-verdon-3.jpg)
-- Have lunch in the nearby village of **Moustiers-Sainte-Marie**, one of France’s most beautiful villages.
+### The viewpoint above the gorge — you can drive it
 
-**Late Afternoon:**
-- Head to the **Valensole Plateau** or **Sault** to explore **lavender fields** (best in late June to mid-July).
-- Capture the iconic photo of endless purple rows backed by the rolling hills of Provence.
-![Lavender Fields](/images/france/articles/lavender-fields.jpg)
+After the kayaking I crossed to **the other side of the bridge and walked up to a high viewpoint.**
 
-**Evening:**
-- Return to your accommodation in Provence or head back toward Nice if you prefer to sleep closer to Day 3 destinations.
+Being honest about what this was: **the route up is just a road**, so **you can drive to the top instead of walking it** if you'd rather. Either way, **the views from up there are amazing** — the full length of the gorge from above, which is a completely different perspective to the one you get from the water.
+
+Do both if you can. Water level and rim are genuinely two different experiences.
+
+![The Gorges du Verdon from above](/images/france/articles/gorges-du-verdon-2.jpg)
+
+### Lavender: timing is everything, and I got it slightly wrong
+
+**I went at the beginning of July and the lavender wasn't fully in bloom.** From what I was told on the ground, **the end of July would have been the right call.**
+
+That's the single most useful thing I can tell you about Provence: the bloom window is narrow, it shifts year to year with the weather, and arriving even a few weeks early means you get green rows with a purple tinge rather than the fields you came for.
+
+**On which farm to visit: don't overthink it.** There are **multiple farms along the road**, and I wouldn't single any of them out. **Just pick whichever looks good as you're driving past.** The famous named locations aren't meaningfully better than the unnamed field twenty minutes earlier.
+
+![Lavender fields in Provence](/images/france/articles/lavender-fields.jpg)
+
+**Moustiers-Sainte-Marie**, near the gorge, is a good lunch stop and one of the prettier villages in the region.
 
 ---
 
-## 🗓️ Day 3: Coastal Charms – Nice & Cannes
+## Day 3: Nice and Cannes
 
-**Morning in Nice:**
-- Start your day with a **walk along the Promenade des Anglais**.
+### Nice — the better of the two
+
+**If you have to choose, choose Nice.** For me **the Promenade des Anglais alone is enough to settle it** — a long seafront curve against that particular blue, and it's free and open to everyone.
+
+Add **Vieux Nice** for the markets and the narrow streets, and the climb up **Castle Hill** for the view back over the bay and the rooftops.
+
 ![Nice](/images/france/articles/nice.jpg)
-- Visit the **Old Town (Vieux Nice)** for vibrant streets, local markets, and a climb up **Castle Hill (Colline du Château)** for panoramic views.
-- Grab a coffee and **Niçoise-style breakfast** in one of the local cafés.
 
-**Afternoon in Cannes:**
-- Drive or take the train to **Cannes** (about 45 minutes).
-- Stroll the **La Croisette Boulevard**, lined with luxury boutiques and palm trees.
-- Visit the **Palais des Festivals**, home of the famous Cannes Film Festival.
+### Cannes
+
+About 45 minutes along the coast, and the **train does this stretch** if you'd rather not drive it. **La Croisette**, the **Palais des Festivals**, and the beaches.
+
+Cannes is perfectly pleasant and it didn't disappoint exactly — it just didn't do anything Nice hadn't already done better. If your schedule slips, this is the part of the trip to cut.
+
 ![Cannes](/images/france/articles/cannes.jpg)
-- Relax at one of the public or private beaches, or have a leisurely seaside lunch.
-
-**Evening:**
-- End your trip with a **sunset dinner** at a rooftop restaurant or beach club.
-- Enjoy the relaxed Riviera vibe before heading back or continuing your travels.
 
 ---
 
-## ✨ Bonus Tips:
+## Day 4: A last stretch in Nice, then home
 
-- **Best Time to Visit:** Late June to mid-July for lavender fields, sunny weather, and fewer crowds than August.
-- **Transportation:** Renting a car is highly recommended for Provence and Gorges du Verdon. Trains are great for coastal cities like Nice and Cannes.
-- **Packing Essentials:** Sunscreen, swimwear, hiking shoes, water bottles, and a good camera for lavender season!
+The car goes back after two days, and the last day is deliberately unhurried. **I stayed in Nice until the afternoon and then took the bus back to Germany.**
+
+It's worth building the trip this way rather than scheduling something for the final morning. Nice rewards the slow version of itself — the seafront, the old town, a long lunch — and you're about to spend a night on a bus.
 
 ---
 
-This Southern France itinerary combines the glitz of Monaco, the raw beauty of nature in the Verdon Gorge, the dreamy lavender fields of Provence, and the glamorous charm of Nice and Cannes. Perfect for a long weekend or a short getaway!
+## Worth knowing
+
+- **Kayak the Verdon.** If you take one thing from this article, that's it.
+- **You only truly need the car for one day** — the Verdon gorge and the lavender plateau. Monaco is a bus ride and Cannes is a train ride.
+- **Base yourself in Nice.** Monaco works as a bus day trip from there, which saves you moving hotels.
+- **Lavender peaks around late July.** Early July was too early for me.
+- **The Monte-Carlo casino opens in the afternoon**, with a dress code and entry fee.
+- **The direct Munich–Nice bus** is a cheap way in from central Europe.
+- **Nice over Cannes** if you're short on time.
+
+---
+
+## Related reading
+
+- [2 days in Paris](/blog/france/2-days-in-paris)
+- [Mont St Michel and Etretat](/blog/france/mont-st-michel-and-etretat-trip)
+- [Best places in Spain](/blog/spain/best-places-in-spain) — the next stretch of Mediterranean coast west

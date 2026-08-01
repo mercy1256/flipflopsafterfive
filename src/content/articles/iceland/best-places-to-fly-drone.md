@@ -1,9 +1,11 @@
 ---
-title: "Best places to fly drones in Iceland"
+title: "Best Places to Fly Drones in Iceland"
+description: "Where drone flying is actually allowed in Iceland, plus the best spots for aerial footage — Fjaðrárgljúfur, Þakgil, Klifbrekkufossar, and more — with real regulations and hard-earned warnings."
 date: "2025-05-29"
-readTime: "5 min read"
+readTime: "4 min read"
 author: "Urvish Shah"
 image: "/images/iceland/articles/droneshot.jpg"
+tags: ["Iceland", "Drone", "Photography", "Aerial"]
 ---
 
 Iceland is one of the best countries in the world for flying a drone. With its epic landscapes, canyons, stunning waterfalls, and fjords, it’s a paradise for capturing incredible drone footage. However, due to the increasing number of tourists, there are some restrictions on where you can fly your drone. Many popular tourist spots are designated as no-fly zones, and the regulations are constantly being updated, making it challenging to find the most current information.
@@ -23,19 +25,21 @@ In this guide, I’ll compile a list of spots where drone flying was allowed whe
 
 ## Fjaðrárgljúfur Canyon
 
-This is the first and only place in Iceland where I found a sign explicitly indicating that drone flying is permitted. It’s also one of the most stunning spots in the country, with a beautiful canyon perfect for capturing incredible drone footage.
+This is the first and only place in Iceland where I found a sign explicitly indicating that drone flying is permitted. It’s also one of the most stunning spots in the country, with a beautiful canyon perfect for capturing incredible drone footage — see it on foot in my [best hikes in Iceland guide](/blog/iceland/best-hikes-iceland) or as part of [Day 6 of the Ring Road](/blog/iceland/iceland-ring-road-guide).
 
 However, this location is popular for drone flying, so you’ll often find several other people flying drones at the same time. When I visited, there were already four people flying drones. Depending on everyone’s skill level, this can be risky.
 
 > **Tip:** Visit early in the morning or late in the evening to avoid the crowds.
 
+![Fjaðrárgljúfur canyon from the air](/images/iceland/articles/fjadrargljufur-drone.jpg)
+
 ---
 
 ## Þakgil Canyon
 
-Another incredible spot where I captured some of the best footage from my trip. The only area where drone flying is prohibited is the campground. During the hike, I was able to capture some breathtaking, otherworldly landscapes and took a few shots while exploring the valley.
+Another incredible spot where I captured some of the best footage from my trip. The only area where drone flying is prohibited is the campground. During the hike, I was able to capture some breathtaking, otherworldly landscapes and took a few shots while exploring the valley — read the [full hike writeup here](/blog/iceland/best-hikes-iceland).
 
-> The landscape here is truly unique, offering footage you won’t find anywhere else.
+![Þakgil valley from the air](/images/iceland/articles/thakgil-drone.jpg)
 
 ---
 
@@ -45,42 +49,54 @@ During our ice cave tour, I asked the guide if I could fly my drone, and they ag
 
 The aerial view of the ice cave against the volcanic surroundings was equally stunning.
 
+![Katla ice cave from the air](/images/iceland/articles/katla-ice-cave-drone.jpg)
+
 ---
 
 ## Glymur Waterfall
 
-On the hike to Glymur Waterfall, there are several viewpoints overlooking the valley that offer incredible opportunities for drone photography. You can get creative and capture classic shots, like slowly pulling back to reveal the vastness of the valley while standing on a cliff.
+On the hike to Glymur Waterfall, there are several viewpoints overlooking the valley that offer incredible opportunities for drone photography. You can get creative and capture classic shots, like slowly pulling back to reveal the vastness of the valley while standing on a cliff. It's an easy add-on from Reykjavik — see my [full Glymur hike guide](/blog/iceland/best-hikes-iceland) for the trail itself.
+
+![The Glymur valley from the air](/images/iceland/articles/glymur-drone.jpg)
 
 ---
 
 ## Klifbrekkufossar
 
-This multi-layered waterfall cascades into the sea at the mouth of a fjord, creating a perfect setting for an epic drone shot.
+This multi-layered waterfall cascades into the sea at the mouth of a fjord, creating a perfect setting for an epic drone shot. It's a stop on [Day 8 of the Ring Road](/blog/iceland/iceland-ring-road-guide), on the drive through the Eastfjords.
 
-> With everything you need for stunning footage, this spot speaks for itself.
+![Klifbrekkufossar from the air](/images/iceland/articles/klifbrekkufossar-drone.jpg)
 
 ---
 
-## Stuðlagil Canyon
+## Stuðlagil Canyon — where I lost my drone
 
-This is another popular drone spot but comes with a warning:
+Another stop on [Day 8 of the Ring Road](/blog/iceland/iceland-ring-road-guide), and the one place on this list I'd tell you to think hard about before you take off.
 
-- **Challenges:** Basalt columns, narrow canyon, and strong winds.
-- **Risks:** High chance of losing control of your drone.
-- **Sensor issues:** The narrow valley can cause your drone to lose its sense of positioning.
+**I lost my drone here.** The hover feature stopped holding position, the controller lost signal, and the wind took the drone straight into a basalt column. It dropped into the canyon and that was that.
 
-> I lost my drone here, after it started misbehaving, the hover feature malfunctioned because of some sensor issue and strong winds and the signal from the controller was lost the wind took it straight to the column and then it fell down in the canyon. So be careful here, if you look at reddit you will see a lot of people having issues here with their drones, my tip would be if you really fly here keep it high and not low between the columns.
+Worth being clear about what happened, because it changes the lesson: **this wasn't pilot error.** The communication between the remote and the drone stopped working properly in the canyon. The drone was a month old and still under warranty, and it was replaced.
 
-This spot is well-known for drone flying, so expect some air traffic. If you can navigate the challenges, you’ll be rewarded with truly incredible shots.
+**Why this spot causes it:**
+
+- **Basalt columns and a narrow canyon** that break line of sight to the controller.
+- **Strong winds** funnelled through the valley.
+- **Sensor interference** — the tight walls can cost the drone its sense of position, which is what kills the hover.
+
+**If you fly here anyway, keep it high.** The trouble starts when you drop down between the columns, which is exactly where the signal and the positioning fail together. Search Reddit before you go and you'll find plenty of people who lost drones in this same canyon.
+
+I have no aerial footage from Stuðlagil to show you here. It went into the canyon with the drone.
 
 ---
 
 ## Hraunfossar, Bruarfoss, and Þórufoss
 
-All three waterfalls are fantastic locations for drone shots:
+All three waterfalls are fantastic locations for drone shots, and all sit conveniently on [Day 2 of the Ring Road](/blog/iceland/iceland-ring-road-guide):
 
 - **Hraunfossar & Bruarfoss:** Can be crowded; harder to get shots without people.
 - **Þórufoss:** Usually less crowded, providing great opportunities for unobstructed drone footage.
+
+![Hraunfossar from the air](/images/iceland/articles/hraunfossar-drone.jpg)
 
 ---
 

@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { Metadata } from 'next'
+import { notFound } from 'next/navigation'
 
 const collections = {
   'weekend-in-europe': {
@@ -112,19 +113,20 @@ export async function generateMetadata({ params }: { params: { collection: strin
   }
 }
 
+export async function generateStaticParams() {
+  return Object.keys(collections).map((collection) => ({ collection }))
+}
+
+// Anything not in `collections` is a real 404, not a page. Previously an unknown
+// slug rendered a styled "Collection not found" body with a 200 status — a soft 404,
+// which search engines index as a thin page.
+export const dynamicParams = false
+
 export default function CollectionPage({ params }: { params: { collection: string } }) {
   const collection = collections[params.collection as keyof typeof collections]
 
   if (!collection) {
-    return (
-      <div className="container-max py-20 text-center">
-        <h1 className="text-4xl font-bold mb-4">Collection not found</h1>
-        <p className="text-text-muted mb-8">This playlist page doesn’t exist yet. Return to the Adventure Library to explore other collections.</p>
-        <Link href="/blog" className="inline-flex rounded-full bg-accent px-6 py-3 text-sm font-semibold text-white hover:bg-accent-dark">
-          Back to Adventure Library
-        </Link>
-      </div>
-    )
+    notFound()
   }
 
   return (

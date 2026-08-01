@@ -1,9 +1,11 @@
 ---
 title: "Hidden Gems of Portugal – My Favorite Spots"
+description: "My favourite hidden gems in Portugal — Praia da Ursa, Quinta da Regaleira in Sintra, Porto's Ribeira district, the Seven Hanging Valleys hike and Praia da Marinha."
 date: "2024-03-15"
-readTime: "8 min read"
+readTime: "3 min read"
 author: "Urvish Shah"
 image: "/images/portugal/articles/best-places-in-portugal.jpg"
+tags: ["Portugal", "Hidden Gems", "Sintra", "Algarve", "Porto"]
 ---
 
 In this post, I want to share my favorite places from my trip to Portugal. Most of these spots aren’t on the usual itinerary, but they are absolutely stunning and made for some of my best memories. I hope you find this helpful and that you get to visit these incredible places too!

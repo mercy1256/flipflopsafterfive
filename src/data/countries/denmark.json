@@ -1,0 +1,35 @@
+{
+  "name": "Denmark",
+  "region": "Europe",
+  "capital": "Copenhagen",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Danish Krone (DKK) — Denmark is in the EU but not the Eurozone",
+  "languages": ["Danish", "English spoken almost universally"],
+  "bestExperience": "Best experience: going inside Christiansborg Palace, with the Royal Treasury at Rosenborg a close second.",
+  "about": {
+    "description": "Denmark is the smallest and flattest of the Nordic countries, and the easiest to travel in. Copenhagen sits on the east coast of Zealand, a short train ride from Sweden across the Øresund bridge, and is compact enough to cover on foot and by bike.",
+    "highlights": [
+      "Nyhavn and the old harbour, best seen from a canal cruise",
+      "Christiansborg — parliament, supreme court and royal palace in one building",
+      "The Royal Treasury and crown jewels beneath Rosenborg Castle",
+      "Tivoli Gardens, at its best after dark at Christmas",
+      "Compact enough to cover properly in two days on foot"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "May to September for long days and outdoor life; December for the Christmas markets",
+    "transportation": [
+      "Copenhagen Metro runs 24 hours and connects the airport to the centre in about 15 minutes",
+      "Cycling is the default way to get around the city",
+      "Trains to the rest of Denmark and across to Sweden leave from København H"
+    ],
+    "culturalNotes": [
+      "Card payment is accepted essentially everywhere — you can visit without cash",
+      "Tap water is safe and free at restaurants",
+      "Tipping is not expected; service is included",
+      "Cycle lanes are real roads — check before stepping into one"
+    ]
+  },
+  "articles": []
+}

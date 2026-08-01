@@ -19,8 +19,24 @@ function exists(relativeSrc) {
   return fs.existsSync(path.join(publicImagesDir, ...cleaned.split('/')))
 }
 
+// Countries whose articles all live under experiences/, so there is no
+// /images/<slug>/main.jpg for the convention below to find. Without these the four
+// of them fell through to placeholder.svg and shipped a blank hero and a blank
+// Visited Map tile. Each pick matches that country's `bestExperience` line.
+const HERO_OVERRIDES = {
+  germany: '/images/experiences/hiking/partnachklamm-hiking.jpg',
+  'czech-republic': '/images/experiences/cities/astronomical-clock.jpg',
+  hungary: '/images/experiences/cities/fishermans-bastion.jpg',
+  'united-kingdom': '/images/experiences/cities/warner-bros-studio-tour-london.jpg',
+}
+
 function resolveHeroImage(slug) {
-  const candidates = [`/images/${slug}/main.jpg`, `/images/${slug}/cover.jpg`, `/images/${slug}.jpg`]
+  const candidates = [
+    HERO_OVERRIDES[slug],
+    `/images/${slug}/main.jpg`,
+    `/images/${slug}/cover.jpg`,
+    `/images/${slug}.jpg`,
+  ].filter(Boolean)
   return candidates.find(exists) || '/images/placeholder.svg'
 }
 

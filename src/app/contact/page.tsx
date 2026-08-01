@@ -173,35 +173,8 @@ export default function ContactPage() {
               <p className="text-text-light">travelsocial82@gmail.com</p>
               <p className="text-sm text-text-light mt-1">I'll respond within 24-48 hours</p>
             </div>
-            <div>
-              <h3 className="text-lg font-semibold mb-2">Social Media</h3>
-              <div className="flex space-x-4">
-                <a
-                  href="https://instagram.com/flipflopsafterfive"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-text-light hover:text-text transition-colors"
-                >
-                  Instagram
-                </a>
-                <a
-                  href="https://twitter.com/flipflopsafterfive"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-text-light hover:text-text transition-colors"
-                >
-                  Twitter
-                </a>
-                <a
-                  href="https://pinterest.com/flipflopsafterfive"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-text-light hover:text-text transition-colors"
-                >
-                  Pinterest
-                </a>
-              </div>
-            </div>
+            {/* Social Media block removed — the Instagram, Twitter and Pinterest
+                accounts don't exist yet. Restore it once they do. */}
             <div>
               <h3 className="text-lg font-semibold mb-2">Location</h3>
               <p className="text-text-light">Based in Germany</p>

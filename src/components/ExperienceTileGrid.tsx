@@ -7,6 +7,7 @@ type Country = {
   slug: string
   name: string
   image: string
+  href: string
   snippet?: string
 }
 
@@ -21,6 +22,7 @@ export default function ExperienceTileGrid({ countries }: { countries: Country[]
             slug={c.slug}
             name={c.name}
             image={c.image}
+            href={c.href}
             snippet={c.snippet}
             expanded={expandedSlug === c.slug}
             onToggle={() => setExpandedSlug((prev) => (prev === c.slug ? null : c.slug))}

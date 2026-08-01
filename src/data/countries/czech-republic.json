@@ -1,0 +1,34 @@
+{
+  "name": "Czech Republic",
+  "region": "Europe",
+  "capital": "Prague",
+  "timeZone": "CET (UTC+1), CEST (UTC+2 in summer)",
+  "visaRequirements": "Schengen Visa required for most non-EU citizens",
+  "currency": "Czech Koruna (CZK) — the Czech Republic is in the EU but not the Eurozone",
+  "languages": ["Czech", "English spoken in central Prague"],
+  "bestExperience": "Best experience: simply walking around Prague's old town.",
+  "about": {
+    "description": "Prague survived the twentieth century largely unbombed, which is why its old town still looks the way it does. The castle complex on the hill, the Charles Bridge across the Vltava, and the Old Town Square are all within walking distance of each other — compact enough that a single well-planned day covers the essentials.",
+    "highlights": [
+      "Prague Castle and St. Vitus Cathedral",
+      "Charles Bridge, best crossed early",
+      "The Astronomical Clock on Old Town Square",
+      "Golden Lane inside the castle complex",
+      "One of the most walkable historic centres in Europe"
+    ]
+  },
+  "travelTips": {
+    "bestTimeToVisit": "May to September for long days; December for the Christmas markets",
+    "transportation": [
+      "Trams and metro cover the city cheaply",
+      "The historic centre is best done entirely on foot",
+      "Well connected by train and bus to Dresden, Vienna and Berlin"
+    ],
+    "culturalNotes": [
+      "The Czech Republic uses the koruna, not the euro",
+      "Avoid the currency exchange booths in the tourist centre",
+      "Check opening days before planning the castle — interiors close earlier than the grounds"
+    ]
+  },
+  "articles": []
+}

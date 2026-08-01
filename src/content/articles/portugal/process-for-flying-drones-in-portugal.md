@@ -1,9 +1,11 @@
 ---
 title: "Process for Flying Drones in Portugal"
+description: "How to legally fly a drone in Portugal — ANAC registration step by step, open vs specific categories, drone marking, insurance requirements, and where you need permission."
 date: "2024-12-19"
-readTime: "12 min read"
+readTime: "4 min read"
 author: "Urvish Shah"
 image: "/images/portugal/articles/process-for-flying-drones-in-portugal.jpg"
+tags: ["Portugal", "Drone", "Regulations", "Photography"]
 ---
 
 Portugal offers some of Europe's most spectacular landscapes for drone photography, from the dramatic cliffs of the Algarve to the historic streets of Lisbon and Porto. However, flying drones in Portugal requires careful attention to regulations and proper documentation. This comprehensive guide will walk you through everything you need to know to fly legally and safely.
@@ -92,7 +94,7 @@ The best way to plan your flight and look for restrictions is to use Voa No Boa 
 
 Even for hobby flights in Portugal in open category for drones below 250g weight every flight needs a prior permission from ANAC if you plan on recording any images or videos. The process is quite simple, just open your E-AAN account and in th Areas section you need to individually apply for each flight with date, time and for some districts even gps locations. If you want to fly on water you need to mention it in the application with gps location.
 
-Another thing is to fly in a protected area you need to apply from the relevant authorities. I flew in Madeira and the IFCN is the responsible authority, they suggested me to apply on Simplifica portal and I got permission in 2 days. Surprisingly the application was free of cost, you just need to apply and mention your reasons for flying I just mentioned that I want to capture some videos of nature for private use.
+Another thing is to fly in a protected area you need to apply from the relevant authorities. I flew in [Madeira](/blog/portugal/7-day-madeira-road-trip-itinerary) and the IFCN is the responsible authority, they suggested me to apply on Simplifica portal and I got permission in 2 days. Surprisingly the application was free of cost, you just need to apply and mention your reasons for flying I just mentioned that I want to capture some videos of nature for private use.
 
 Although this may seem a bit cumbersome, it is a good thing to do since it helps you to avoid any unwanted situations and also you will have the permission to fly in the area you want to fly in. The thing is they provide permission for most of the areas without any issues, it is just extra process but in my opinion this is worth it as then you are stress free and you can fly in the area you want to fly in.
 

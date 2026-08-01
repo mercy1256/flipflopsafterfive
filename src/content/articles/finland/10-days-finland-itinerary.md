@@ -1,157 +1,164 @@
 ---
-title: "10 days Finland Itinerary "
+title: "10-Day Finland Winter Itinerary: Lapland, Helsinki and Tallinn"
+description: "A 10-day winter itinerary through Finland — five days of husky safaris, snowbiking and saunas in Lapland, then five days exploring Helsinki, Porvoo, Turku and a ferry day trip to Tallinn."
 date: "2024-03-15"
-readTime: "15 min read"
+readTime: "5 min read"
 author: "Urvish Shah"
 image: "/images/finland/articles/10-days-finland-itinerary.jpg"
+tags: ["Finland", "Itinerary", "Lapland", "Winter", "Helsinki"]
 ---
 
-I wanted to share my 10-day Christmas itinerary through Finland.  
-A quick overview: the itinerary is divided into two parts—6 days in the north and 4 days in the south.  
-We chose to spend Christmas Eve in Santa Claus Village in Rovaniemi and New Year’s Eve in Helsinki. However, you can easily plan it the other way around.
+I wanted to share my 10-day winter itinerary through Finland, built around a Christmas and New Year trip.
+
+The route splits neatly in half: **five days in the north** for winter activities, and **five days in the south** for cities and day trips. We finished with New Year's Eve in Helsinki, but you can just as easily run it the other way around and start in the south.
+
+## At a Glance
+
+- **Days 1–5 — Rovaniemi and Levi (the north).** Santa Claus Village, husky and snowmobile safaris, snowbiking, snowshoe hiking and saunas.
+- **Days 6–10 — Helsinki (the south).** Porvoo, Turku, Suomenlinna, a ferry day trip to Tallinn, and Helsinki itself.
+
+If you're mainly here for the winter activities themselves, I've written about each one in more detail in my guide to the [best things to do in Lapland](/blog/finland/best-activities-in-lapland).
 
 ---
 
-## Day 1: Rovaniemi
+## Part One: Northern Finland (Days 1–5)
 
-Just a quick tip: we flew to Helsinki the day before and took the overnight train from Helsinki to Rovaniemi.  
-Upon arrival, we headed straight to Santa Claus Village and spent the entire day exploring. Keep in mind, this was on December 23rd, so it was during the polar night and very cold.  
+### Day 1: Rovaniemi and Santa Claus Village
 
-We wandered around the village, met Santa, and took a picture with him *(note: the photo costs €50 if you want a copy)*.  
-Exploring the entire area takes a couple of hours, and we also had lunch there.  
-In total, we spent about 6 hours at the village.  
+A quick tip to start: we flew into Helsinki the day before and took the overnight train up to Rovaniemi, which saves you both a night's accommodation and a domestic flight.
 
-After that, we headed to **Levi**, where we stayed for the next 4 nights. Levi is a ski resort town and a great base for all winter activities in Finland.
+On arrival we went straight to [Santa Claus Village](/blog/finland/santa-claus-village-guide) and spent the whole day there. This was December 23rd — the last day it was open before Christmas, since the village closes on the 24th — so we were deep in the polar night and it was bitterly cold.
+
+We wandered the village, met Santa, and got a photo with him — worth knowing that a copy of the photo costs **€50**. Exploring the whole area takes a couple of hours, and we had lunch there too, so we ended up spending about six hours in total. If you're not travelling with kids, two to three hours is honestly enough; I've put everything worth knowing in a [separate Santa Claus Village guide](/blog/finland/santa-claus-village-guide).
+
+From there we drove to **Levi**, where we stayed for the next four nights. Levi is a ski resort town and makes an excellent base for every winter activity in the region.
 
 ![Santa Claus Village in Rovaniemi](/images/finland/articles/santa-claus-village.jpg)
 
 ---
 
-## Day 2: Levi
+### Day 2: Levi
 
-- Morning: Reindeer safari at a nearby farm.  
-  The farm was beautiful, but the safari was short and slow—I preferred the husky safari we did the next day. Still, it’s a must-do.
+- **Morning — [Reindeer safari](/blog/finland/best-activities-in-lapland) at a nearby farm.**
+  The farm itself was beautiful, but the safari was short and slow. I preferred the husky safari we did the next day. Still worth doing once.
 
-- Afternoon: **Ice karting** in Levi.  
-  A very unique experience—only two rinks exist in Finland!  
-  **Tip:** Avoid staying outside for more than 3 hours in winter—it gets brutally cold.
+- **Afternoon — Ice karting in Levi.**
+  A genuinely unique experience; there are only two rinks like it in Finland.
 
-- Evening: Aurora hunting (unsuccessful due to clouds).
+- **Evening — Aurora hunting.** Unsuccessful, thanks to heavy cloud cover.
+
+> **Tip:** Don't plan to be outside for more than about three hours at a stretch in winter. It gets brutally cold, and it creeps up on you.
 
 ![Reindeer Safari](/images/finland/articles/reindeer-safari.jpg)
----
-
-## Day 3: Levi
-
-- Morning: **Husky safari** at a farm with reindeer and arctic foxes.  
-  The safari was exhilarating—riding over frozen lakes and snowy forests felt like Narnia.
-
-- Afternoon: **Snowmobile safari** through snow-filled forests and lakes.  
-  Highly recommended!
-
-- Evening: **Traditional Sami sauna** experience.  
-  Dip in a frozen lake, then warm up in the sauna—it’s said to boost your metabolism.
-
-  ![Husky safari](/images/finland/articles/husky-safari.jpg)
 
 ---
 
-## Day 4: Levi
+### Day 3: Levi
 
-- Morning: **Snow biking** through the forest on e-bikes.  
-  The best activity of the trip! We fell a lot but had the most fun.
+- **Morning — [Husky safari](/blog/finland/best-activities-in-lapland)** at a farm that also kept reindeer and arctic foxes.
+  This was exhilarating. Riding out over frozen lakes and through snowy forest felt like being dropped into Narnia.
 
-- Afternoon: **Snowshoe hiking** in the forest.  
-  We saw wild reindeer and arctic foxes.  
-  If you like skiing, try **cross-country skiing** through the forest instead of downhill skiing.
+- **Afternoon — [Snowmobile safari](/blog/finland/best-activities-in-lapland)** through snow-filled forest and across frozen lakes. Highly recommended.
 
-  ![Snow biking](/images/finland/articles/snow-biking.jpg)
+- **Evening — a traditional Sami sauna.**
+  You dip into a hole cut in a frozen lake, then warm straight back up in the sauna. It's said to do wonders for your metabolism, and it's one of the most memorable things we did — I've written more about [the ice dip itself here](/blog/finland/best-activities-in-lapland).
+
+![Husky safari](/images/finland/articles/husky-safari.jpg)
 
 ---
 
-## Day 5: Rovaniemi
+### Day 4: Levi
 
-We returned to Rovaniemi to catch the overnight train to Helsinki.  
-On the way, we stopped at the **Ice Hotel**—a hotel made entirely of ice with a new theme each winter (this year: Norse gods). Worth the stop.
+- **Morning — [Snow biking](/blog/finland/best-activities-in-lapland)** through the forest on e-bikes.
+  The best activity of the entire trip. We fell constantly and had an absurd amount of fun doing it.
 
-Then we continued to Rovaniemi and boarded the night train to Helsinki.
+- **Afternoon — [Snowshoe hiking](/blog/finland/best-activities-in-lapland)** in the forest, where we spotted wild reindeer and arctic foxes.
+  If you'd rather ski, I'd take cross-country skiing through the forest over downhill here.
+
+![Snow biking](/images/finland/articles/snow-biking.jpg)
+
+---
+
+### Day 5: Rovaniemi and the night train south
+
+We drove back toward Rovaniemi to catch the overnight train to Helsinki, stopping on the way at the **Ice Hotel** — a hotel built entirely from ice, rebuilt to a new theme every winter. The year we visited, the theme was Norse gods. Well worth the stop.
+
+Then it was on to Rovaniemi and onto the night train.
 
 ![Ice Hotel](/images/finland/articles/ice-hotel.jpg)
 
 ---
 
-## Day 6: Porvoo
+## Part Two: Southern Finland (Days 6–10)
 
-We visited **Porvoo**, a charming town about an hour from Helsinki.  
-The old town looked especially beautiful in winter.  
-After exploring and having lunch, we returned to Helsinki.
+### Day 6: Porvoo
 
-**Surprise discovery:** The restaurants in Helsinki are amazing!  
-Every night, we took a sauna at our accommodation and searched for great food.
+**Porvoo** is a charming town about an hour from Helsinki, and its old town looks especially good under snow. We explored, had lunch, and headed back to Helsinki.
+
+One surprise discovery: the restaurants in Helsinki are excellent. Every evening we took a sauna at our accommodation and then went hunting for somewhere good to eat.
 
 ![Porvoo](/images/finland/articles/porvoo.jpg)
+
 ---
 
-## Day 7: Turku
+### Day 7: Turku
 
-**Turku** is a historic city, around 2 hours from Helsinki.  
-Once the capital of Finland, it’s rich in culture and history.
+**Turku** sits about two hours from Helsinki and was once the country's capital, so it's dense with history. We visited:
 
-We visited:
-- Turku Castle  
-- Turku Cathedral  
-- The old town  
+- Turku Castle
+- Turku Cathedral
+- The old town
 
 A perfect day trip from Helsinki.
 
 ![Turku](/images/finland/articles/turku.jpg)
+
 ---
 
-## Day 8: Suomenlinna Fortress
+### Day 8: Suomenlinna Fortress
 
-Located off the coast of Helsinki, Suomenlinna is a massive sea fortress.  
-You take a short ferry to get there, and exploring it takes a full day.
+**Suomenlinna** is an enormous sea fortress spread across islands off the coast of Helsinki, reached by a short ferry. Exploring it properly takes a full day.
 
-**Tip:** It’s windy and freezing—visit museums on the island to warm up in between.
+> **Tip:** It is windy and freezing out there. Break the day up with the island's museums so you have somewhere to warm up.
 
 ![Suomenlinna](/images/finland/articles/suomenlinna.jpg)
+
 ---
 
-## Day 9: Tallinn
+### Day 9: Tallinn, Estonia
 
-**Tallinn**, Estonia — one of the best-preserved medieval towns in Europe.  
-It’s just a 2-hour ferry ride from Helsinki and an absolute must-do.
+**Tallinn** is one of the best-preserved medieval towns in Europe, and it's only a two-hour ferry from Helsinki. An absolute must-do, even as a day trip — we took the 7am Tallink sailing out and the 5pm back, and I've written up [the full day trip here](/blog/finland/helsinki-to-tallinn-day-trip).
 
 We explored:
-- The old town  
-- The Christmas market  
-- City walls  
-- Fotografiska Museum
 
-Since it was **New Year’s Eve**, we returned to Helsinki for the celebrations—amazing vibes!
+- The old town
+- The Christmas market
+- The city walls
+- The Fotografiska museum
+
+This was New Year's Eve, so we headed back to Helsinki for the celebrations — the atmosphere was fantastic.
 
 ![Tallinn](/images/finland/articles/tallinn.jpg)
 
 ---
 
-## Day 10: Helsinki
+### Day 10: Helsinki
 
-Our last day in Finland.  
-Our flight was in the evening, so we spent the day exploring Helsinki.
+Our last day. With an evening flight, we spent it in Helsinki itself, visiting:
 
-We visited:
-- Helsinki Cathedral  
+- Helsinki Cathedral
 - Uspenski Cathedral
 
-While Helsinki is a large metropolis, I didn’t find many standout attractions.  
-After lunch, we checked out and headed to the airport.
+Honestly, while Helsinki is a big, comfortable city, I didn't find a huge number of standout sights. After lunch we checked out and headed for the airport.
 
 ![Helsinki](/images/finland/articles/helsinki.jpg)
+
 ---
 
-## Conclusion
+## Final Thoughts
 
-I thoroughly enjoyed the first part of the trip in **northern Finland**—the winter activities were truly magical.  
-I think the **south** would be better to visit in **summer**.
+The northern half of this trip was the clear highlight — the winter activities around Levi were genuinely magical, and if you're short on time that's where I'd spend it. For a fuller breakdown of each one, see my guide to the [best things to do in Lapland](/blog/finland/best-activities-in-lapland).
 
-That’s the end of my itinerary—**hope this helps with your planning**!
+The south is well worth seeing, but I suspect it's better in summer, when you can actually enjoy the coast and the islands.
+
+Hope this helps with your planning!

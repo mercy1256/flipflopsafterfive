@@ -1,22 +1,26 @@
 ---
-title: "11 day Italy Itinerary"
+title: "11-Day Italy Itinerary: Rome, Florence, Venice and the North"
+description: "An 11-day Italy itinerary covering Rome, Vatican City, Florence, Cinque Terre, Siena, Milan, Lake Como, Bologna and Venice — the classic route, day by day."
 date: "2024-03-15"
 readTime: "8 min read"
 author: "Urvish Shah"
 image: "/images/italy/articles/12-day-italy-itinerary.jpg"
+tags: ["Italy", "Itinerary", "Rome", "Florence", "Venice"]
 ---
 
 
-I want to compile my 12-day itinerary from my recent trip to North and Central Italy in this post.
+I want to compile my 11-day itinerary from my recent trip through northern and central Italy in this post. It covers Rome, Florence, Venice and Milan, with day trips out to Cinque Terre, Siena, Pisa and Lake Como.
+
+If you're heading south instead, I've written a separate [7-day southern Italy itinerary](/blog/italy/7-days-amalfi-coast-itinerary) covering the Amalfi Coast, Puglia and Naples — and if you want mountains, there's a [7-day Dolomites itinerary](/blog/italy/7-day-dolomites-itinerary) too.
 
 ---
 
 ## Day 1: Rome
 
-I arrived in Rome the evening before, so I had the whole day for exploration.
+I arrived in Rome the evening before, so I had the whole day for exploration. For a fuller breakdown of these two days, see my [2-day Rome itinerary](/blog/italy/2-days-in-rome).
 
 ### Colosseum
-- **Tip**: Book tickets at least a month in advance.
+- **Tip**: Book tickets at least 1.5 months in advance — this one genuinely sells out.
 - **Entry**: Standard entry without a guided tour.
 - **Recommendation**: Use Rick Steves’ audio guide app.
 - **Caution**: Be very cautious of pickpockets. Out of six people from my hostel, three lost their wallets, and one lost her phone.
@@ -63,7 +67,7 @@ I arrived in Rome the evening before, so I had the whole day for exploration.
 - **Highlights**: Extensive collection of remarkable history and rare artifacts.
 - **Recommendation**: Use an audio guide.
 - **Duration**: 3–4 hours.
-- **Tickets**: Purchase online about a month in advance.
+- **Tickets**: Purchase online at least 1.5 months in advance.
 
 ### Sistine Chapel
 - **Highlights**: Breathtaking frescoes and paintings.
@@ -79,7 +83,7 @@ I arrived in Rome the evening before, so I had the whole day for exploration.
 
 ## Day 3: Florence
 
-Ahh, I love Florence. There's something about this city that's indescribable—the vibe here is phenomenal. I think it's one of my favorite cities in the world. I'd go here just for roaming around the city center and eating the amazing food.
+Ahh, I love Florence. There's something about this city that's indescribable—the vibe here is phenomenal. I think it's one of my favorite cities in the world. I'd go here just for roaming around the city center and eating the amazing food. I've written a [full Florence travel guide](/blog/italy/florence-travel-guide) covering the Duomo climb, the Uffizi, and the best pasta in the city.
 
 ### Santa Maria del Fiore Church
 - **Description**: In my opinion, the most beautiful church in the world.
@@ -130,7 +134,9 @@ Ahh, I love Florence. There's something about this city that's indescribable—t
 
 ## Day 5: Cinque Terre
 
-Cinque Terre, a stunning cluster of five picturesque villages, is located about 2.5 hours from Florence. While it's a bit of a stretch for a day trip, with careful planning, you can make the most of it.
+Cinque Terre, a stunning cluster of five picturesque villages, is located about 2.5 hours from Florence. While it's a bit of a stretch for a day trip, with careful planning, you can make the most of it — I got to all five villages in a single day. The hiking is far easier than people make it sound, and the coastal path passes through lemon groves.
+
+Full write-up: [Cinque Terre day trip from Florence](/blog/italy/cinque-terre-day-trip-from-florence).
 
 **Suggested Itinerary**:
 - **Start**: Early train from Florence to La Spezia.
@@ -140,6 +146,7 @@ Cinque Terre, a stunning cluster of five picturesque villages, is located about 
 - **Highlights**: Riomaggiore is known for its picturesque views.
 - **Return**: Back to Florence by 8 PM.
 ![Cinque Terre](/images/italy/articles/cinque-terre.jpg)
+
 ---
 
 ## Day 6: Siena
@@ -185,20 +192,21 @@ Milan is a vibrant city known for its fashion, design, and rich history.
 
 ## Day 8: Lake Como
 
-Lake Como is a perfect day trip from Milan, offering stunning scenery and charming towns.
+Lake Como is an easy day trip from Milan — under an hour by train — and the one day of this trip where I'd change my own plan.
 
 ### Como
 - **Highlights**: Como Cathedral (Duomo di Como), lakeside promenade, vibrant piazzas.
 ![Como](/images/italy/articles/como.jpg)
 
-### Brunate
-- **Access**: Brunate funicular.
-- **Activity**: Hike to Faro Voltiano lighthouse for panoramic views.
-
 ### Boat Ride
-- **Towns to Visit**:
-  - **Bellagio**: Known as the “Pearl of Lake Como.”
-  - **Varenna**: Colorful houses, lush gardens, serene vibe.
+- **Time**: About an hour and a half on the water in total.
+- **Towns Visited**: **Bellagio**, known as the "Pearl of Lake Como", and **Varenna**.
+- **Honest verdict**: They looked much the same to me. I'd skip the town-hopping.
+
+### What I'd do instead
+Pick **one** town, find the highest viewpoint above it, and then spend the rest of the day slowly by the water with a good meal. The view of the lake from above is what makes Como special — at lake level you're just in a nice town.
+
+Full write-up: [Lake Como day trip from Milan](/blog/italy/lake-como-day-trip-from-milan).
 
 ---
 
@@ -226,7 +234,9 @@ Bologna is often referred to as the gastronomic heart of Italy.
 
 ## Day 10: Venice
 
-Venice, just two hours away from Bologna by train, offers a one-of-a-kind experience.
+Venice, just two hours away from Bologna by train, offers a one-of-a-kind experience. Basing yourself in Bologna and coming in for the day is the move I'd defend here — everything in Venice is expensive, accommodation most of all.
+
+Full write-up, including how to get a gondola down to €16 a head: [One day in Venice](/blog/italy/one-day-in-venice).
 
 ### St. Mark’s Square (Piazza San Marco)
 - **Surroundings**: St. Mark’s Basilica, Doge’s Palace, Campanile (bell tower).
@@ -250,6 +260,12 @@ Venice, just two hours away from Bologna by train, offers a one-of-a-kind experi
 ## Day 11: Bologna
 
 For me, the last day was basically half a day of exploring Bologna again and then catching a flight back home in the afternoon. If in your case you have a full day available, you can include doing a day trip to Verona.
+
+---
+
+## Where to Go Next
+
+If you've got more time in Italy, the two natural extensions to this route are the [Dolomites](/blog/italy/7-day-dolomites-itinerary) — easily reached from Venice or Bologna, and a complete change of scenery — or heading south for the [Amalfi Coast, Puglia and Naples](/blog/italy/7-days-amalfi-coast-itinerary).
 
 ---
 

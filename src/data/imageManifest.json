@@ -15,6 +15,14 @@
     "heroImage": "/images/croatia/main.jpg",
     "tileImage": "/images/croatia/main.jpg"
   },
+  "czech-republic": {
+    "heroImage": "/images/experiences/cities/astronomical-clock.jpg",
+    "tileImage": "/images/experiences/cities/astronomical-clock.jpg"
+  },
+  "denmark": {
+    "heroImage": "/images/denmark/main.jpg",
+    "tileImage": "/images/denmark/main.jpg"
+  },
   "finland": {
     "heroImage": "/images/finland/main.jpg",
     "tileImage": "/images/finland/main.jpg"
@@ -23,9 +31,17 @@
     "heroImage": "/images/france/main.jpg",
     "tileImage": "/images/france/articles/lavender-fields.jpg"
   },
+  "germany": {
+    "heroImage": "/images/experiences/hiking/partnachklamm-hiking.jpg",
+    "tileImage": "/images/experiences/hiking/partnachklamm-hiking.jpg"
+  },
   "greece": {
     "heroImage": "/images/greece/main.jpg",
     "tileImage": "/images/greece/main.jpg"
+  },
+  "hungary": {
+    "heroImage": "/images/experiences/cities/fishermans-bastion.jpg",
+    "tileImage": "/images/experiences/cities/fishermans-bastion.jpg"
   },
   "iceland": {
     "heroImage": "/images/iceland/main.jpg",
@@ -33,7 +49,7 @@
   },
   "italy": {
     "heroImage": "/images/italy/main.jpg",
-    "tileImage": "/images/italy/articles/colosseum.jpg"
+    "tileImage": "/images/italy/main.jpg"
   },
   "netherlands": {
     "heroImage": "/images/netherlands.jpg",
@@ -62,6 +78,10 @@
   "thailand": {
     "heroImage": "/images/thailand/main.jpg",
     "tileImage": "/images/thailand/main.jpg"
+  },
+  "united-kingdom": {
+    "heroImage": "/images/experiences/cities/warner-bros-studio-tour-london.jpg",
+    "tileImage": "/images/experiences/cities/warner-bros-studio-tour-london.jpg"
   },
   "vietnam": {
     "heroImage": "/images/vietnam.jpg",
