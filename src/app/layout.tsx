@@ -52,9 +52,10 @@ export const metadata: Metadata = {
     telephone: false,
   },
   metadataBase: new URL('https://flipflopsafterfive.com'),
-  alternates: {
-    canonical: '/',
-  },
+  // No `alternates.canonical` here. Next.js inherits metadata down the route tree, so
+  // a canonical set on the root layout was emitted verbatim by every page that did not
+  // override it — /places, /experiences, /about, /contact and all 22 country pages each
+  // declared themselves a duplicate of the homepage. Each route now sets its own.
   openGraph: {
     type: 'website',
     locale: 'en_US',

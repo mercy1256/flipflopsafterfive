@@ -1,6 +1,24 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Travel Destinations',
+  description:
+    'Browse travel guides by country — 20 destinations across Europe and Asia, from Iceland and Norway to Italy, Spain, Thailand and Vietnam, each with itineraries, travel tips and practical planning notes.',
+  alternates: {
+    canonical: '/places',
+  },
+  openGraph: {
+    title: 'Travel Destinations | FlipFlopsAfterFive',
+    description:
+      'Browse travel guides by country — 20 destinations across Europe and Asia, each with itineraries, travel tips and practical planning notes.',
+    type: 'website',
+    url: 'https://flipflopsafterfive.com/places',
+    images: [{ url: '/images/home.jpg', width: 1200, height: 630, alt: 'Travel destinations' }],
+  },
+}
 
 export default function PlacesPage() {
   return (

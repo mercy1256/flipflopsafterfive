@@ -105,10 +105,21 @@ const collections = {
 export async function generateMetadata({ params }: { params: { collection: string } }): Promise<Metadata> {
   const collection = collections[params.collection as keyof typeof collections]
   return {
-    title: `${collection?.title || 'Adventure Collection'} | FlipFlopsAfterFive`,
+    // No " | FlipFlopsAfterFive" suffix — the root layout's title template appends it.
+    title: collection?.title || 'Adventure Collection',
     description: collection?.description || 'A future playlist collection for travel inspiration.',
     alternates: {
       canonical: `/blog/collections/${params.collection}`
+    },
+    // These pages render ~60 words plus one or two cards that link to articles covering
+    // the same ground, which is what Google reports as "Crawled - currently not indexed".
+    // Keep them crawlable and followable so they still pass signal to the linked articles,
+    // but out of the index and out of the sitemap until they carry real editorial copy.
+    // To re-enable: delete this `robots` block and restore the collection URLs in
+    // src/app/sitemap.ts (see the note there).
+    robots: {
+      index: false,
+      follow: true
     }
   }
 }

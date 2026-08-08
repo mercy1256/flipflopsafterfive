@@ -1,6 +1,16 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
+import type { Metadata } from 'next'
+
+// Title/description/openGraph are inherited from the root layout, which describes the
+// site as a whole and so already reads correctly for the homepage. Only the canonical
+// needs stating explicitly, now that the root layout no longer sets one for everybody.
+export const metadata: Metadata = {
+  alternates: {
+    canonical: '/',
+  },
+}
 
 export default function Home() {
   return (

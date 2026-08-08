@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
+import type { Metadata } from 'next'
 import { Country } from '@/types/country'
 import fs from 'fs'
 import path from 'path'
@@ -71,6 +72,52 @@ export async function generateStaticParams() {
 // Only serve the region/country combos returned by generateStaticParams above —
 // prevents request-time fs reads from arbitrary/unsanitized route segments.
 export const dynamicParams = false
+
+// Trim to a meta-description-friendly length on a word boundary.
+function clampToLength(text: string, max: number): string {
+  if (text.length <= max) return text
+  const cut = text.lastIndexOf(' ', max - 1)
+  return `${text.slice(0, cut > 0 ? cut : max - 1)}…`
+}
+
+// Until now these 22 pages exported no metadata at all, so they inherited the root
+// layout's homepage title, homepage description and homepage canonical — every one of
+// them told Google it was a duplicate of the site root.
+export async function generateMetadata({
+  params,
+}: {
+  params: { region: string; country: string }
+}): Promise<Metadata> {
+  const countryData = countryDataMap[params.country]
+
+  if (!countryData) {
+    return { title: 'Destination Not Found' }
+  }
+
+  const canonical = `/places/${params.region}/${params.country}`
+  const title = `${countryData.name} Travel Guide`
+  const description = clampToLength(countryData.about.description, 155)
+  const image = `https://flipflopsafterfive.com${getCountryHeroImage(params.country)}`
+
+  return {
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      title: `${title} | FlipFlopsAfterFive`,
+      description,
+      type: 'website',
+      url: `https://flipflopsafterfive.com${canonical}`,
+      images: [{ url: image, width: 1200, height: 630, alt: `${countryData.name} travel guide` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${title} | FlipFlopsAfterFive`,
+      description,
+      images: [image],
+    },
+  }
+}
 
 type ArticleCard = {
   title: string

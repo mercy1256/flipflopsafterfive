@@ -54,7 +54,10 @@ const playlists = [
 ]
 
 export const metadata: Metadata = {
-  title: 'Adventure Library | FlipFlopsAfterFive',
+  // No " | FlipFlopsAfterFive" suffix here — the root layout's title template appends it,
+  // so spelling it out produced "Adventure Library | FlipFlopsAfterFive | FlipFlopsAfterFive".
+  // openGraph/twitter titles below are not run through the template, so they keep the suffix.
+  title: 'Adventure Library',
   description: 'A curated adventure library of trip playlists, themed routes, and travel collections.',
   openGraph: {
     title: 'Adventure Library | FlipFlopsAfterFive',

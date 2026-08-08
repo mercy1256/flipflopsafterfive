@@ -3,6 +3,18 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
+const BASE_URL = 'https://flipflopsafterfive.com'
+
+// Bump by hand when the copy on /about or /contact actually changes. These pages have no
+// underlying content file to date them from, and a hardcoded date is more honest than a
+// build timestamp — see the note on lastModified below.
+const STATIC_PAGE_LAST_MODIFIED = new Date('2026-08-08')
+
+// Every `lastmod` in this file is derived from content, never from `new Date()`.
+// Stamping the build time meant each deploy told Google that all 34 non-article URLs had
+// just changed; once lastmod is provably wrong it stops being trusted and stops helping
+// the pages that genuinely did change get recrawled.
+
 // Recursively get all markdown files in a directory
 function getAllMarkdownFiles(dir: string): string[] {
   let results: string[] = []
@@ -23,80 +35,87 @@ function getAllMarkdownFiles(dir: string): string[] {
   return results
 }
 
+function parseDate(value: unknown): Date | null {
+  if (!value) return null
+  const parsed = new Date(value as string)
+  return Number.isNaN(parsed.getTime()) ? null : parsed
+}
+
+function newest(dates: Date[], fallback: Date): Date {
+  return dates.length ? new Date(Math.max(...dates.map((d) => d.getTime()))) : fallback
+}
+
+type Article = {
+  url: string
+  lastModified: Date
+  /**
+   * The country a post belongs to. For posts filed under src/content/articles/<country>/
+   * this is the folder name; posts under experiences/<type>/ declare it in frontmatter
+   * instead, because they are grouped by activity rather than by place.
+   */
+  country: string | null
+}
+
+function collectArticles(articlesDir: string): Article[] {
+  if (!fs.existsSync(articlesDir)) return []
+
+  return getAllMarkdownFiles(articlesDir)
+    .map((filePath): Article | null => {
+      try {
+        const { data } = matter(fs.readFileSync(filePath, 'utf8'))
+        const relPath = path
+          .relative(articlesDir, filePath)
+          .replace(/\\/g, '/')
+          .replace(/\.md$/, '')
+        const topSegment = relPath.split('/')[0]
+
+        return {
+          url: `${BASE_URL}/blog/${relPath}`,
+          lastModified: parseDate(data.date) ?? STATIC_PAGE_LAST_MODIFIED,
+          country: topSegment === 'experiences' ? (data.country ?? null) : topSegment,
+        }
+      } catch (error) {
+        console.error('Error processing file for sitemap:', filePath, error)
+        return null
+      }
+    })
+    .filter((article): article is Article => article !== null)
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://flipflopsafterfive.com'
-  
-  // Static pages
-  const staticPages = [
-    {
-      url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as const,
-      priority: 1,
-    },
-    {
-      url: `${baseUrl}/blog`,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as const,
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/places`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/experiences`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/about`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.6,
-    },
-    {
-      url: `${baseUrl}/contact`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.5,
-    },
+  const articlesDir = path.join(process.cwd(), 'src/content/articles')
+  const articles = collectArticles(articlesDir)
+
+  // Hub pages change when the posts they list change, so date them from their newest post.
+  const newestOverall = newest(
+    articles.map((a) => a.lastModified),
+    STATIC_PAGE_LAST_MODIFIED
+  )
+
+  const newestByCountry = new Map<string, Date>()
+  for (const article of articles) {
+    if (!article.country) continue
+    const current = newestByCountry.get(article.country)
+    if (!current || article.lastModified > current) {
+      newestByCountry.set(article.country, article.lastModified)
+    }
+  }
+
+  const staticPages: MetadataRoute.Sitemap = [
+    { url: BASE_URL, lastModified: newestOverall, changeFrequency: 'daily', priority: 1 },
+    { url: `${BASE_URL}/blog`, lastModified: newestOverall, changeFrequency: 'daily', priority: 0.9 },
+    { url: `${BASE_URL}/places`, lastModified: newestOverall, changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${BASE_URL}/experiences`, lastModified: newestOverall, changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${BASE_URL}/about`, lastModified: STATIC_PAGE_LAST_MODIFIED, changeFrequency: 'yearly', priority: 0.6 },
+    { url: `${BASE_URL}/contact`, lastModified: STATIC_PAGE_LAST_MODIFIED, changeFrequency: 'yearly', priority: 0.5 },
   ]
 
-  // Dynamic article pages
-  const articlesDir = path.join(process.cwd(), 'src/content/articles')
-  let articlePages: MetadataRoute.Sitemap = []
-  
-  try {
-    if (fs.existsSync(articlesDir)) {
-      const files = getAllMarkdownFiles(articlesDir)
-      
-      articlePages = files.map((filePath) => {
-        try {
-          const fileContent = fs.readFileSync(filePath, 'utf8')
-          const { data } = matter(fileContent)
-          
-          const relPath = path.relative(articlesDir, filePath).replace(/\\/g, '/').replace(/\.md$/, '')
-          const url = `${baseUrl}/blog/${relPath}`
-          
-          return {
-            url,
-            lastModified: data.date ? new Date(data.date) : new Date(),
-            changeFrequency: 'monthly' as const,
-            priority: 0.7,
-          }
-        } catch (error) {
-          console.error('Error processing file for sitemap:', filePath, error)
-          return null
-        }
-      }).filter(Boolean) as MetadataRoute.Sitemap
-    }
-  } catch (error) {
-    console.error('Error generating article sitemap:', error)
-  }
+  const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
+    url: article.url,
+    lastModified: article.lastModified,
+    changeFrequency: 'monthly',
+    priority: 0.7,
+  }))
 
   // Country/region pages.
   // Derived from src/data/countries/*.json rather than hand-listed, because the
@@ -114,8 +133,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         const country = file.replace(/\.json$/, '')
         const region = ASIA_COUNTRIES.has(country) ? 'asia' : 'europe'
         return {
-          url: `${baseUrl}/places/${region}/${country}`,
-          lastModified: new Date(),
+          url: `${BASE_URL}/places/${region}/${country}`,
+          lastModified: newestByCountry.get(country) ?? STATIC_PAGE_LAST_MODIFIED,
           changeFrequency: 'monthly' as const,
           priority: 0.8,
         }
@@ -124,20 +143,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     console.error('Error generating country sitemap:', error)
   }
 
-  // Blog collection ("playlist") pages linked from /blog
-  const collectionPages = [
-    'weekend-in-europe',
-    'city-essentials',
-    'mountain-lake-escapes',
-    'coastal-highlights',
-    'food-culture-trails',
-    'solo-traveler-guides',
-  ].map((collection) => ({
-    url: `${baseUrl}/blog/collections/${collection}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }))
-
-  return [...staticPages, ...articlePages, ...countryPages, ...collectionPages]
+  // /blog/collections/* is deliberately absent. Those pages render ~60 words and link to
+  // articles that are already in this sitemap, and they now send noindex (see the note in
+  // blog/collections/[collection]/page.tsx). Restore them here — and drop the `robots`
+  // block there — once they carry enough of their own copy to stand as pages.
+  return [...staticPages, ...articlePages, ...countryPages]
 }

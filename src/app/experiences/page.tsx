@@ -4,7 +4,25 @@ import Image from 'next/image'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import type { Metadata } from 'next'
 import ExperienceMap from '../../components/ExperienceMap'
+
+export const metadata: Metadata = {
+  title: 'Travel Experiences',
+  description:
+    'Handpicked city breaks, road trips and hiking adventures for busy professionals — from Alpine trails and Nordic drives to two-day European city escapes.',
+  alternates: {
+    canonical: '/experiences',
+  },
+  openGraph: {
+    title: 'Travel Experiences | FlipFlopsAfterFive',
+    description:
+      'Handpicked city breaks, road trips and hiking adventures for busy professionals.',
+    type: 'website',
+    url: 'https://flipflopsafterfive.com/experiences',
+    images: [{ url: '/images/home.jpg', width: 1200, height: 630, alt: 'Travel experiences' }],
+  },
+}
 
 function getExperiences(dir: string, urlPrefix: string) {
   const dirPath = path.join(process.cwd(), 'src/content/articles/experiences', dir)

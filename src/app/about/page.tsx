@@ -1,5 +1,23 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'About Urvish Shah',
+  description:
+    "I'm a 9-to-5 professional who takes 3-4 major trips a year plus countless short breaks. Flip Flops After Five shares the itineraries and planning advice behind them — proof you don't need to quit your job to travel.",
+  alternates: {
+    canonical: '/about',
+  },
+  openGraph: {
+    title: 'About Urvish Shah | FlipFlopsAfterFive',
+    description:
+      "A 9-to-5 professional sharing practical itineraries and honest planning advice for working travelers.",
+    type: 'profile',
+    url: 'https://flipflopsafterfive.com/about',
+    images: [{ url: '/images/profile.jpg', width: 1200, height: 630, alt: 'Urvish Shah' }],
+  },
+}
 
 export default function AboutPage() {
   return (
